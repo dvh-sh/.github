@@ -4,5 +4,35 @@
     "link"        : "https://dvh.sh",
     "description" : "Personal project portfolio website",
     "language"    : "TypeScript"
+  },
+  {
+    "title"       : "nitrous-oxi.de",
+    "link"        : "https://nitrous-oxi.de",
+    "description" : "Open-source OSINT investigation suite",
+    "language"    : "TypeScript, Python"
+  },
+  {
+    "title"       : "Morbo",
+    "link"        : "https://morbo.site",
+    "description" : "Multipurpose Discord.js utility bot",
+    "language"    : "TypeScript"
+  },
+  {
+    "title"       : "readme.directory",
+    "link"        : "https://readme.directory",
+    "description" : "Personal project portfolio website",
+    "language"    : "TypeScript"
+  },
+  {
+    "title"       : "wrapper.directory",
+    "link"        : "https://wrapper.directory",
+    "description" : "Collection of standardized API wrappers",
+    "language"    : "TypeScript"
+  },
+  {
+    "title"       : "cheat.directory",
+    "link"        : "https://cheat.directory",
+    "description" : "Collection of rudamentory game cheating resources",
+    "language"    : "TypeScript"
   }
 ]
