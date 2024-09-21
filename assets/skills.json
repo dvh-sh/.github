@@ -1,0 +1,31 @@
+{
+  "skills": {
+    "programmingLanguages": [
+      { "icon": "SiJavascript", "label": "JavaScript", "color": "text-yellow" },
+      { "icon": "SiTypescript", "label": "TypeScript", "color": "text-blue" },
+      { "icon": "SiPython", "label": "Python", "color": "text-yellow" },
+      { "icon": "SiKotlin", "label": "Kotlin", "color": "text-mauve" },
+      { "icon": "SiCplusplus", "label": "C++", "color": "text-blue" },
+      { "icon": "SiPhp", "label": "PHP", "color": "text-mauve" }
+    ],
+    "frameworks": [
+      { "icon": "SiReact", "label": "React", "color": "text-blue" },
+      { "icon": "SiNextdotjs", "label": "Next.js", "color": "text-gray" },
+      { "icon": "SiExpress", "label": "Express", "color": "text-gray" },
+      { "icon": "SiSpring", "label": "Spring", "color": "text-green" }
+    ],
+    "tools": [
+      { "icon": "SiGit", "label": "Git", "color": "text-peach" },
+      { "icon": "SiDocker", "label": "Docker", "color": "text-blue" },
+      { "icon": "SiLinux", "label": "Linux", "color": "text-yellow" },
+      { "icon": "SiNginx", "label": "Nginx", "color": "text-green" }
+    ],
+    "cloud": [
+      { "icon": "SiMongodb", "label": "MongoDB", "color": "text-green" },
+      { "icon": "SiMysql", "label": "MySQL", "color": "text-blue" },
+      { "icon": "SiPostgresql", "label": "PostgreSQL", "color": "text-blue" },
+      { "icon": "SiDigitalocean", "label": "DigitalOcean", "color": "text-blue" },
+      { "icon": "SiOracle", "label": "Oracle Cloud", "color": "text-red" }
+    ]
+  }
+}
