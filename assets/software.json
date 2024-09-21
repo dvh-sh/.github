@@ -3,7 +3,7 @@
     "Essentials": [
       {
         "title": "Brew",
-        "description": "Incredibly powerful application / package manager.",
+        "description": "Powerful package manager for macOS.",
         "link": "https://brew.sh/",
         "price": "Open Source",
         "brewInstall": "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"",
@@ -11,7 +11,7 @@
       },
       {
         "title": "Raycast",
-        "description": "Incredibly advanced application launcher with several extended features.",
+        "description": "Advanced application launcher with extended features.",
         "link": "https://www.raycast.com/",
         "price": "Free",
         "brewInstall": "brew install --cask raycast",
@@ -19,7 +19,7 @@
       },
       {
         "title": "Orion",
-        "description": "Lightweight, webkit based, native ad-blocking browser.",
+        "description": "Lightweight, ad-blocking web browser.",
         "link": "https://kagi.com/orion/",
         "price": "Free",
         "brewInstall": "brew install --cask orion",
@@ -29,7 +29,7 @@
     "General": [
       {
         "title": "Obsidian",
-        "description": "Markdown based note taking app.",
+        "description": "Markdown-based note-taking app.",
         "link": "https://obsidian.md/",
         "price": "Freemium",
         "brewInstall": "brew install --cask obsidian",
@@ -37,7 +37,7 @@
       },
       {
         "title": "Proton",
-        "description": "Secure email service.",
+        "description": "Secure email, VPN, and password manager.",
         "link": "https://proton.me/",
         "price": "Freemium",
         "operatingSystem": "Web"
@@ -54,7 +54,7 @@
     "Utilities": [
       {
         "title": "Stats",
-        "description": "Allows you to monitor system stats from your menu bar.",
+        "description": "Monitor system stats from your menu bar.",
         "link": "https://github.com/exelban/stats",
         "price": "Open Source",
         "brewInstall": "brew install --cask stats",
@@ -62,7 +62,7 @@
       },
       {
         "title": "Ice",
-        "description": "Allows you to customize your menu bar.",
+        "description": "Customize your menu bar.",
         "link": "https://github.com/jordanbaird/Ice",
         "price": "Open Source",
         "brewInstall": "brew install --cask jordanbaird-ice",
@@ -70,7 +70,7 @@
       },
       {
         "title": "Shottr",
-        "description": "Lightweight screenshot tool / editor.",
+        "description": "Lightweight screenshot tool and editor.",
         "link": "https://shottr.cc/",
         "price": "Free",
         "brewInstall": "brew install --cask shottr",
@@ -78,7 +78,7 @@
       },
       {
         "title": "Synergy 3.0",
-        "description": "This software allows you to control your mac and PC using the same mouse and keyboard, and allows for seamless clipboard / file sharing.",
+        "description": "Control multiple devices with one keyboard and mouse.",
         "link": "https://symless.com/synergy",
         "price": "Paid",
         "operatingSystem": "macOS, Windows, Linux"
@@ -94,7 +94,7 @@
       },
       {
         "title": "Visual Studio Code",
-        "description": "Free and powerful code editor.",
+        "description": "Free, powerful code editor.",
         "link": "https://code.visualstudio.com/",
         "price": "Open Source",
         "brewInstall": "brew install --cask visual-studio-code",
