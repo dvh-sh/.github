@@ -5,7 +5,7 @@
         "title": "Brew",
         "description": "Incredibly powerful application / package manager.",
         "link": "https://brew.sh/",
-        "tags": ["Free", "Open Source"],
+        "tags": ["Open Source"],
         "brewInstall": "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"",
         "operatingSystem": "macOS"
       },
@@ -15,17 +15,7 @@
         "link": "https://www.raycast.com/",
         "tags": ["Free"],
         "brewInstall": "brew install --cask raycast",
-        "operatingSystem": "macOS",
-        "subSoftware": [
-          {
-            "title": "Raycast Extension 1",
-            "link": "https://www.raycast.com/extension1"
-          },
-          {
-            "title": "Raycast Extension 2",
-            "link": "https://www.raycast.com/extension2"
-          }
-        ]
+        "operatingSystem": "macOS"
       },
       {
         "title": "Orion",
@@ -33,17 +23,7 @@
         "link": "https://kagi.com/orion/",
         "tags": ["Free"],
         "brewInstall": "brew install --cask orion",
-        "operatingSystem": "macOS",
-        "subSoftware": [
-          {
-            "title": "Orion Extension 1",
-            "link": "https://kagi.com/orion/extension1"
-          },
-          {
-            "title": "Orion Extension 2",
-            "link": "https://kagi.com/orion/extension2"
-          }
-        ]
+        "operatingSystem": "macOS"
       }
     ],
     "General": [
@@ -51,7 +31,7 @@
         "title": "Obsidian",
         "description": "Markdown based note taking app.",
         "link": "https://obsidian.md/",
-        "tags": ["Free", "Freemium"],
+        "tags": ["Freemium"],
         "brewInstall": "brew install --cask obsidian",
         "operatingSystem": "macOS, Windows, Linux"
       },
@@ -66,7 +46,7 @@
         "title": "Coteditor",
         "description": "Replacement for macOS default text editor.",
         "link": "https://coteditor.com/",
-        "tags": ["Free", "Open Source"],
+        "tags": ["Open Source"],
         "brewInstall": "brew install --cask coteditor",
         "operatingSystem": "macOS"
       }
@@ -76,7 +56,7 @@
         "title": "Stats",
         "description": "Allows you to monitor system stats from your menu bar.",
         "link": "https://github.com/exelban/stats",
-        "tags": ["Free", "Open Source"],
+        "tags": ["Open Source"],
         "brewInstall": "brew install --cask stats",
         "operatingSystem": "macOS"
       },
@@ -84,7 +64,7 @@
         "title": "Ice",
         "description": "Allows you to customize your menu bar.",
         "link": "https://github.com/jordanbaird/Ice",
-        "tags": ["Free", "Open Source"],
+        "tags": ["Open Source"],
         "brewInstall": "brew install --cask jordanbaird-ice",
         "operatingSystem": "macOS"
       },
@@ -95,6 +75,13 @@
         "tags": ["Free"],
         "brewInstall": "brew install --cask shottr",
         "operatingSystem": "macOS"
+      },
+      {
+        "title": "Synergy 3.0",
+        "description": "This software allows you to control your mac and PC using the same mouse and keyboard, and allows for seamless clipboard / file sharing.",
+        "link": "https://symless.com/synergy",
+        "tags": ["Paid"],
+        "operatingSystem": "macOS, Windows, Linux"
       }
     ],
     "IDEs": [
@@ -109,7 +96,7 @@
         "title": "Visual Studio Code",
         "description": "Free and powerful code editor.",
         "link": "https://code.visualstudio.com/",
-        "tags": ["Free", "Open Source"],
+        "tags": ["Open Source"],
         "brewInstall": "brew install --cask visual-studio-code",
         "operatingSystem": "macOS, Windows, Linux"
       }
