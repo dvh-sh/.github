@@ -1,10 +1,11 @@
 {
   "projects": [
     {
-      "title": "Project 1",
-      "description": "Description of project 1",
-      "technologies": ["React", "Node.js"],
-      "link": "#"
+      title: "Project 1",
+      description: "Description of project 1. This can be a longer text explaining the key features and purpose of the project.",
+      technologies: ["React", "Node.js", "MongoDB"],
+      demoLink: "https://project1-demo.com", // Optional
+      sourceLink: "https://github.com/yourusername/project1"
     }
   ]
 }
