@@ -1,0 +1,79 @@
+{
+  "software": [
+    {
+      "title": "Brew",
+      "description": "Incredibly powerful application / package manager.",
+      "link": "https://brew.sh/",
+      "tags": ["Free", "Open Source"],
+      "brewInstall": "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\""
+    },
+    {
+      "title": "Raycast",
+      "description": "Incredibly advanced application launcher with several extended features.",
+      "link": "https://www.raycast.com/",
+      "tags": ["Free"],
+      "brewInstall": "brew install --cask raycast",
+      "subSoftware": [
+        {
+          "title": "Raycast Extension 1",
+          "link": "https://www.raycast.com/extension1"
+        },
+        {
+          "title": "Raycast Extension 2",
+          "link": "https://www.raycast.com/extension2"
+        }
+      ]
+    },
+    {
+      "title": "Stats",
+      "description": "Allows you to monitor system stats from your menu bar.",
+      "link": "https://github.com/exelban/stats",
+      "tags": ["Free", "Open Source"],
+      "brewInstall": "brew install --cask stats"
+    },
+    {
+      "title": "Ice",
+      "description": "Allows you to customize your menu bar.",
+      "link": "https://github.com/jordanbaird/Ice",
+      "tags": ["Free", "Open Source"],
+      "brewInstall": "brew install --cask jordanbaird-ice"
+    },
+    {
+      "title": "Coteditor",
+      "description": "Replacement for macOS default text editor.",
+      "link": "https://coteditor.com/",
+      "tags": ["Free", "Open Source"],
+      "brewInstall": "brew install --cask coteditor"
+    },
+    {
+      "title": "Shottr",
+      "description": "Lightweight screenshot tool / editor.",
+      "link": "https://shottr.cc/",
+      "tags": ["Free"],
+      "brewInstall": "brew install --cask shottr"
+    },
+    {
+      "title": "Orion",
+      "description": "Lightweight, webkit based, native ad-blocking browser.",
+      "link": "https://kagi.com/orion/",
+      "tags": ["Free"],
+      "brewInstall": "brew install --cask orion",
+      "subSoftware": [
+        {
+          "title": "Orion Extension 1",
+          "link": "https://kagi.com/orion/extension1"
+        },
+        {
+          "title": "Orion Extension 2",
+          "link": "https://kagi.com/orion/extension2"
+        }
+      ]
+    },
+    {
+      "title": "Obsidian",
+      "description": "Markdown based note taking app.",
+      "link": "https://obsidian.md/",
+      "tags": ["Free", "Freemium"],
+      "brewInstall": "brew install --cask obsidian"
+    }
+  ]
