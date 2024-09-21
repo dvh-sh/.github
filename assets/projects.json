@@ -2,35 +2,35 @@
   "projects": [
     {
       "title": "NITROUS",
-      "description": "NITROUS is a research project focused on the fundamentals of open-source intelligence (OSINT) through HTTP requests to public APIs. Developed with TypeScript, Fastify, and Next.js.",
+      "description": "Research project focused on the fundamentals of open-source intelligence (OSINT) through HTTP requests to public APIs.",
       "technologies": ["TypeScript", "Fastify", "Next.js"],
       "demoLink": "https://nitrous-oxi.de",
       "sourceLink": "https://github.com/nitrous-oxi-de"
     },
     {
       "title": "VOLT",
-      "description": "VOLT is a full-stack solution for authentication and authorization, built with Fastify, Next.js, and MongoDB. It powers a seamless non-KYC crypto card platform.",
+      "description": "Full-stack solution for authentication and authorization, powering a seamless non-KYC crypto card platform.",
       "technologies": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
       "demoLink": "https://volt.cc",
       "sourceLink": "https://github.com/volt-cc"
     },
     {
       "title": "HIVE",
-      "description": "HIVE is a full-stack solution for a leading bio-link platform. It features a robust backend and seamless frontend integration using TypeScript, Fastify, Next.js, and MongoDB.",
+      "description": "Full-stack solution for a leading bio-link platform.",
       "technologies": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
     },
     {
       "title": "slapshot.ts",
-      "description": "An unofficial 'Slapshot: Rebound' API Wrapper built with TypeScript and Axios.",
+      "description": "An unofficial 'Slapshot: Rebound' API wrapper.",
       "technologies": ["TypeScript", "Axios"],
       "demoLink": "https://slapshot.js.org",
       "sourceLink": "https://github.com/dvhsh/slapshot.ts"
     },
     {
       "title": "Catppuccin (Raycast Extension)",
-      "description": "Quickly view the Catppuccin color palette, userstyles, ports, and documentation within Raycast. Developed with TypeScript and React.",
+      "description": "Quickly view the Catppuccin color palette, userstyles, ports, and documentation within Raycast.",
       "technologies": ["TypeScript", "React"],
       "demoLink": "https://raycast.com/dvhsh/catppuccin",
       "sourceLink": "https://github.com/dvhsh/raycast/tree/main/catppuccin"
