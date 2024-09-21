@@ -5,7 +5,7 @@
         "title": "Brew",
         "description": "Incredibly powerful application / package manager.",
         "link": "https://brew.sh/",
-        "tags": ["Open Source"],
+        "price": "Open Source",
         "brewInstall": "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\"",
         "operatingSystem": "macOS"
       },
@@ -13,7 +13,7 @@
         "title": "Raycast",
         "description": "Incredibly advanced application launcher with several extended features.",
         "link": "https://www.raycast.com/",
-        "tags": ["Free"],
+        "price": "Free",
         "brewInstall": "brew install --cask raycast",
         "operatingSystem": "macOS"
       },
@@ -21,7 +21,7 @@
         "title": "Orion",
         "description": "Lightweight, webkit based, native ad-blocking browser.",
         "link": "https://kagi.com/orion/",
-        "tags": ["Free"],
+        "price": "Free",
         "brewInstall": "brew install --cask orion",
         "operatingSystem": "macOS"
       }
@@ -31,7 +31,7 @@
         "title": "Obsidian",
         "description": "Markdown based note taking app.",
         "link": "https://obsidian.md/",
-        "tags": ["Freemium"],
+        "price": "Freemium",
         "brewInstall": "brew install --cask obsidian",
         "operatingSystem": "macOS, Windows, Linux"
       },
@@ -39,14 +39,14 @@
         "title": "Proton",
         "description": "Secure email service.",
         "link": "https://proton.me/",
-        "tags": ["Freemium"],
+        "price": "Freemium",
         "operatingSystem": "Web"
       },
       {
         "title": "Coteditor",
         "description": "Replacement for macOS default text editor.",
         "link": "https://coteditor.com/",
-        "tags": ["Open Source"],
+        "price": "Open Source",
         "brewInstall": "brew install --cask coteditor",
         "operatingSystem": "macOS"
       }
@@ -56,7 +56,7 @@
         "title": "Stats",
         "description": "Allows you to monitor system stats from your menu bar.",
         "link": "https://github.com/exelban/stats",
-        "tags": ["Open Source"],
+        "price": "Open Source",
         "brewInstall": "brew install --cask stats",
         "operatingSystem": "macOS"
       },
@@ -64,7 +64,7 @@
         "title": "Ice",
         "description": "Allows you to customize your menu bar.",
         "link": "https://github.com/jordanbaird/Ice",
-        "tags": ["Open Source"],
+        "price": "Open Source",
         "brewInstall": "brew install --cask jordanbaird-ice",
         "operatingSystem": "macOS"
       },
@@ -72,7 +72,7 @@
         "title": "Shottr",
         "description": "Lightweight screenshot tool / editor.",
         "link": "https://shottr.cc/",
-        "tags": ["Free"],
+        "price": "Free",
         "brewInstall": "brew install --cask shottr",
         "operatingSystem": "macOS"
       },
@@ -80,7 +80,7 @@
         "title": "Synergy 3.0",
         "description": "This software allows you to control your mac and PC using the same mouse and keyboard, and allows for seamless clipboard / file sharing.",
         "link": "https://symless.com/synergy",
-        "tags": ["Paid"],
+        "price": "Paid",
         "operatingSystem": "macOS, Windows, Linux"
       }
     ],
@@ -89,14 +89,14 @@
         "title": "JetBrains",
         "description": "Powerful IDEs for various programming languages.",
         "link": "https://www.jetbrains.com/",
-        "tags": ["Paid"],
+        "price": "Paid",
         "operatingSystem": "macOS, Windows, Linux"
       },
       {
         "title": "Visual Studio Code",
         "description": "Free and powerful code editor.",
         "link": "https://code.visualstudio.com/",
-        "tags": ["Open Source"],
+        "price": "Open Source",
         "brewInstall": "brew install --cask visual-studio-code",
         "operatingSystem": "macOS, Windows, Linux"
       }
