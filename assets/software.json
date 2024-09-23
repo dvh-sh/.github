@@ -93,7 +93,7 @@
         "operatingSystem": "macOS, Windows, Linux"
       },
       {
-        "title": "Visual Studio Code",
+        "title": "VS Code",
         "description": "Free, powerful code editor.",
         "link": "https://code.visualstudio.com/",
         "price": "Open Source",
