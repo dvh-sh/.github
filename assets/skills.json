@@ -11,6 +11,7 @@
     "frameworks": [
       { "icon": "SiReact", "label": "React", "color": "text-blue" },
       { "icon": "SiNextdotjs", "label": "Next.js", "color": "text-gray" },
+      { "icon": "SiFastify", "label": "Fastify", "color": "text-gray" },
       { "icon": "SiExpress", "label": "Express", "color": "text-gray" },
       { "icon": "SiSpring", "label": "Spring", "color": "text-green" }
     ],
