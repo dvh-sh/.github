@@ -17,7 +17,7 @@
     {
       "title": "HIVE",
       "description": "Full-stack solution for a leading bio-link platform.",
-      "technologies": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
+      "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
     },
