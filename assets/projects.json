@@ -8,13 +8,6 @@
       "sourceLink": "https://github.com/nitrous-oxi-de"
     },
     {
-      "title": "VOLT",
-      "description": "Full-stack solution for authentication and authorization, powering a seamless non-KYC crypto card platform.",
-      "technologies": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
-      "demoLink": "https://volt.cc",
-      "sourceLink": "https://github.com/volt-cc"
-    },
-    {
       "title": "HIVE",
       "description": "Full-stack solution for a leading bio-link platform.",
       "technologies": ["TypeScript", "Next.js", "MongoDB"],
