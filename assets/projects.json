@@ -29,11 +29,11 @@
       "sourceLink": "https://github.com/dvhsh/slapshot.ts"
     },
     {
-      "title": "Catppuccin (Raycast Extension)",
+      "title": "Catppuccin (Raycast)",
       "description": "Quickly view the Catppuccin color palette, userstyles, ports, and documentation within Raycast.",
       "technologies": ["TypeScript", "React"],
       "demoLink": "https://raycast.com/dvhsh/catppuccin",
-      "sourceLink": "https://github.com/dvhsh/raycast/tree/main/catppuccin"
+      "sourceLink": "https://github.com/raycast/extensions/tree/main/extensions/catppuccin"
     }
   ]
 }
