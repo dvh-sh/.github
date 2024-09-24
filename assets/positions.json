@@ -1,0 +1,12 @@
+{
+  "positions": [
+    {
+      "title": "VOLT",
+      "shortDescription": "Developed a full-stack solution for authentication and authorization, powering a seamless non-KYC crypto card platform.",
+      "technologies": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
+      "link": "https://volt.cc",
+      "positionTitle": "Freelance Software Engineer",
+      "date": "Jul 2024 - Present"
+    },
+  ]
+}
