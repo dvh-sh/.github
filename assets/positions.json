@@ -1,12 +1,20 @@
 {
   "positions": [
     {
+      "title": "pa/store",
+      "shortDescription": "Developed a comprehensive full-stack solution for product management, sales requests, and a storefront for a second-hand professional audio equipment retailer.",
+      "technologies": ["TypeScript", "Next.js", "MongoDB"],
+      "link": "https://pastore.nl",
+      "positionTitle": "Contracted Software Engineer",
+      "date": "Sep 2024 - Oct 2024"
+    },
+    {
       "title": "VOLT",
-      "shortDescription": "Developed a full-stack solution for authentication and authorization, powering a seamless non-KYC crypto card platform.",
-      "technologies": ["typescript", "fastiy", "nextjs", "mongodb"],
+      "shortDescription": "Engineered a robust full-stack solution for authentication and authorization, enabling a seamless non-KYC crypto card platform.",
+      "technologies": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
       "link": "https://volt.cc",
-      "positionTitle": "Freelance Software Engineer",
-      "date": "Jul 2024 - Present"
+      "positionTitle": "Contracted Software Engineer",
+      "date": "Jul 2024 - Aug 2024"
     }
   ]
 }
