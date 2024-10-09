@@ -5,7 +5,7 @@
       "shortDescription": "Developed a comprehensive full-stack solution for product management, sales requests, and a storefront for a second-hand professional audio equipment retailer.",
       "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "link": "https://pastore.nl",
-      "positionTitle": "Contracted Software Engineer",
+      "positionTitle": "Full-stack Software Engineer",
       "date": "Sep 2024 - Oct 2024"
     },
     {
@@ -13,7 +13,7 @@
       "shortDescription": "Engineered a robust full-stack solution for authentication and authorization, enabling a seamless non-KYC crypto card platform.",
       "technologies": ["TypeScript", "Fastify", "Next.js", "MongoDB"],
       "link": "https://volt.cc",
-      "positionTitle": "Contracted Software Engineer",
+      "positionTitle": "Full-stack Software Engineer",
       "date": "Jul 2024 - Aug 2024"
     }
   ]
