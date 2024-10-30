@@ -1,4 +1,12 @@
 {
-"positions": [
+  "positions": [
+    {
+      "title": "Loom CMS",
+      "shortDescription": "Comprehensive CMS built from scratch to provide a long-term tailored solution for consulting clients.",
+      "technologies": ["linux", "nginx", "typescript", "nextjs", "mongodb", "postgresql"],
+      "positionTitle": "Chief Technology Officer",
+      "link": "https://loom.software",
+      "date": "May 2024 - Present"
+    }
   ]
 }
