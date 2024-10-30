@@ -1,23 +1,16 @@
 {
   "skills": {
     "programmingLanguages": [
-      "javascript",
       "typescript",
-      "python",
-      "kotlin",
       "cplusplus",
-      "php"
     ],
     "frameworks": [
       "react",
       "nextjs",
       "fastify",
-      "express",
-      "spring"
     ],
     "tools": [
-      "git",
-      "docker",
+      "git",,
       "linux",
       "nginx"
     ],
@@ -25,8 +18,6 @@
       "mongodb",
       "mysql",
       "postgresql",
-      "digitalocean",
-      "oracle"
     ]
   }
 }
