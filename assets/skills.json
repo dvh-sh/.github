@@ -10,9 +10,9 @@
       "fastify",
     ],
     "tools": [
-      "git",,
+      "git",
       "linux",
-      "nginx"
+      "nginx",
     ],
     "cloud": [
       "mongodb",
