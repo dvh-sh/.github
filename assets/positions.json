@@ -1,8 +1,8 @@
 {
   "positions": [
     {
-      "title": "Loom CMS",
-      "shortDescription": "Comprehensive CMS built from scratch to provide a long-term tailored solution for consulting clients.",
+      "title": "Loom EWMS",
+      "shortDescription": "Comprehensive development platform built from scratch to provide a long-term tailored solution for web-based consulting clients.",
       "technologies": ["linux", "nginx", "typescript", "nextjs", "mongodb", "postgresql"],
       "positionTitle": "Chief Technology Officer",
       "link": "https://loom.software",
