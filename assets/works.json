@@ -13,13 +13,6 @@
       "technologies": ["linux", "nginx", "typescript", "nextjs", "mongodb"],
       "link": "https://pastore.nl",
       "date": "Sep 2024 - Oct 2024"
-    },
-    {
-      "title": "VOLT",
-      "shortDescription": "Engineered and deployed a robust full-stack solution for authentication and authorization, enabling a seamless non-KYC crypto card platform.",
-      "technologies": ["linux", "nginx", "typescript", "fastify", "nextjs", "mongodb"],
-      "link": "https://volt.cc",
-      "date": "Jul 2024 - Aug 2024"
     }
   ]
 }
