@@ -43,11 +43,10 @@
         "operatingSystem": "Web"
       },
       {
-        "title": "Coteditor",
-        "description": "Replacement for macOS default text editor.",
-        "link": "https://coteditor.com/",
+        "title": "Ghosttly",
+        "description": "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "link": "https://ghostty.org",
         "price": "Open Source",
-        "brewInstall": "brew install --cask coteditor",
         "operatingSystem": "macOS"
       }
     ],
@@ -69,12 +68,25 @@
         "operatingSystem": "macOS"
       },
       {
-        "title": "Shottr",
-        "description": "Lightweight screenshot tool and editor.",
-        "link": "https://shottr.cc/",
-        "price": "Free",
-        "brewInstall": "brew install --cask shottr",
+        "title": "CleanShot X",
+        "description": "Feature-rich screen capture tool with advanced editing and sharing options.",
+        "link": "https://cleanshot.com/",
+        "price": "Paid",
         "operatingSystem": "macOS"
+      },
+      {
+        "title": "IINA",
+        "description": "Modern, open-source media player for macOS with extensive format support.",
+        "link": "https://iina.io",
+        "price": "Open Source",
+        "operatingSystem": "macOS"
+      },
+      {
+        "title": "Fantastical",
+        "description": "Powerful calendar app with natural language input and intuitive design.",
+        "link": "https://flexibits.com/fantastical",
+        "price": "Paid",
+        "operatingSystem": "macOS, iOS"
       },
       {
         "title": "Synergy 3.0",
@@ -86,19 +98,35 @@
     ],
     "IDEs": [
       {
-        "title": "JetBrains",
-        "description": "Powerful IDEs for various programming languages.",
-        "link": "https://www.jetbrains.com/",
-        "price": "Paid",
-        "operatingSystem": "macOS, Windows, Linux"
-      },
-      {
         "title": "VS Code",
         "description": "Free, powerful code editor.",
         "link": "https://code.visualstudio.com/",
         "price": "Open Source",
         "brewInstall": "brew install --cask visual-studio-code",
         "operatingSystem": "macOS, Windows, Linux"
+      }
+    ],
+    "Creatives": [
+      {
+        "title": "Affinity Photo",
+        "description": "Professional photo editing software for creative enthusiasts.",
+        "link": "https://affinity.serif.com/en-us/photo/",
+        "price": "Paid",
+        "operatingSystem": "macOS, Windows, iPad"
+      },
+      {
+        "title": "Affinity Designer",
+        "description": "Powerful vector graphic design software with a user-friendly interface.",
+        "link": "https://affinity.serif.com/en-us/designer/",
+        "price": "Paid",
+        "operatingSystem": "macOS, Windows, iPad"
+      },
+      {
+        "title": "Affinity Publisher",
+        "description": "Robust desktop publishing software for multimedia projects.",
+        "link": "https://affinity.serif.com/en-us/publisher/",
+        "price": "Paid",
+        "operatingSystem": "macOS, Windows"
       }
     ]
   }
