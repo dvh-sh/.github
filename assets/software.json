@@ -24,6 +24,13 @@
         "price": "Free",
         "brewInstall": "brew install --cask orion",
         "operatingSystem": "macOS"
+      },
+      {
+        "title": "Things",
+        "description": "Things is the award-winning personal task manager that helps you plan your day, manage your projects, and make real progress toward your goals.",
+        "link": "https://culturedcode.com/things/",
+        "price": "Paid",
+        "operatingSystem": "macOS, iOS, iPadOS, visionOS"
       }
     ],
     "General": [
@@ -82,18 +89,32 @@
         "operatingSystem": "macOS"
       },
       {
-        "title": "Fantastical",
-        "description": "Powerful calendar app with natural language input and intuitive design.",
-        "link": "https://flexibits.com/fantastical",
-        "price": "Paid",
-        "operatingSystem": "macOS, iOS"
-      },
-      {
         "title": "Synergy 3.0",
         "description": "Control multiple devices with one keyboard and mouse.",
         "link": "https://symless.com/synergy",
         "price": "Paid",
         "operatingSystem": "macOS, Windows, Linux"
+      },
+      {
+        "title": "Clop",
+        "description": "Image, video, PDF and clipboard optimiser. Copy large, paste small, send fast.",
+        "link": "https://lowtechguys.com/clop/",
+        "price": "Freemium",
+        "operatingSystem": "macOS"
+      },
+      {
+        "title": "Dropover",
+        "description": "Effortless Drag & Drop on your Mac. Dropover is a macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows.",
+        "link": "https://dropoverapp.com",
+        "price": "Freemium",
+        "operatingSystem": "macOS"
+      },
+      {
+        "title": "Streaks",
+        "description": "Habit tracker. Streaks is the to-do list that helps you form good habits. Every day you complete a task, your streak is extended. Choose or create up to 24 tasks, such as: walk the dog, floss your teeth, eat healthily, practice Spanish. Works with Apple Health.",
+        "link": "https://streaksapp.com",
+        "price": "Paid",
+        "operatingSystem": "macOS, iOS"
       }
     ],
     "IDEs": [
