@@ -24,6 +24,14 @@
         "price": "Free",
         "brewInstall": "brew install --cask orion",
         "operatingSystem": "macOS"
+      },
+      {
+        "title": "Neovim",
+        "description": "Highly configurable and modernized Vim text editor.",
+        "link": "https://neovim.io",
+        "price": "Open Source",
+        "brewInstall": "brew install neovim",
+        "operatingSystem": "macOS, Windows, Linux"
       }
     ],
     "General": [
@@ -115,16 +123,6 @@
         "link": "https://dropoverapp.com",
         "price": "Freemium",
         "operatingSystem": "macOS"
-      }
-    ],
-    "IDEs": [
-      {
-        "title": "VS Code",
-        "description": "Free, powerful code editor.",
-        "link": "https://code.visualstudio.com/",
-        "price": "Open Source",
-        "brewInstall": "brew install --cask visual-studio-code",
-        "operatingSystem": "macOS, Windows, Linux"
       }
     ],
     "Creatives": [
