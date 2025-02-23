@@ -1,23 +1,27 @@
 {
   "skills": {
     "programmingLanguages": [
+      "javascript",
       "typescript",
       "cplusplus",
+      "c"
     ],
     "frameworks": [
       "react",
       "nextjs",
-      "fastify",
+      "fastify"
     ],
     "tools": [
       "git",
       "linux",
       "nginx",
+      "docker"
     ],
     "cloud": [
       "mongodb",
       "mysql",
-      "postgresql",
+      "coolify",
+      "letsencrypt"
     ]
   }
 }
