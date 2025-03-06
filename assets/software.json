@@ -44,13 +44,6 @@
         "operatingSystem": "macOS, Windows, Linux"
       },
       {
-        "title": "Streaks",
-        "description": "Habit tracker. Streaks is the to-do list that helps you form good habits. Every day you complete a task, your streak is extended. Choose or create up to 24 tasks, such as: walk the dog, floss your teeth, eat healthily, practice Spanish. Works with Apple Health.",
-        "link": "https://streaksapp.com",
-        "price": "Paid",
-        "operatingSystem": "macOS, iOS"
-      },
-      {
         "title": "Things",
         "description": "Things is the award-winning personal task manager that helps you plan your day, manage your projects, and make real progress toward your goals.",
         "link": "https://culturedcode.com/things/",
