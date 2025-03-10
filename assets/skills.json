@@ -20,8 +20,6 @@
     "cloud": [
       "mongodb",
       "mysql",
-      "coolify",
-      "letsencrypt"
     ]
   }
 }
