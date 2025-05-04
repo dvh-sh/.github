@@ -58,7 +58,7 @@
         "operatingSystem": "Web"
       },
       {
-        "title": "Ghosttly",
+        "title": "Ghostty",
         "description": "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
         "link": "https://ghostty.org",
         "price": "Open Source",
