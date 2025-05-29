@@ -6,22 +6,30 @@
       "c",
       "cplusplus",
       "php",
-      "python"
+      "python",
+      "kotlin",
+      "csharp"
     ],
     "frameworks": [
       "react",
       "nextjs",
-      "fastify"
+      "fastify",
+      "express",
+      "spring"
     ],
     "tools": [
       "git",
       "linux",
       "nginx",
-      "docker"
+      "docker",
+      "coolify",
+      "letsencrypt"
     ],
     "cloud": [
       "mongodb",
       "mysql",
+      "digitalocean",
+      "oracle"
     ]
   }
 }
