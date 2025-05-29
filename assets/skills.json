@@ -3,8 +3,10 @@
     "programmingLanguages": [
       "javascript",
       "typescript",
+      "c",
       "cplusplus",
-      "c"
+      "php",
+      "python"
     ],
     "frameworks": [
       "react",
