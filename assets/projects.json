@@ -8,18 +8,25 @@
       "sourceLink": "https://github.com/nitrous-oxi-de"
     },
     {
-      "title": "dskt.cc",
-      "description": "Modding repository and documentation for Desktop Mate software",
-      "technologies": ["typescript", "fastify", "nextjs"],
-      "demoLink": "https://dskt.cc",
-      "sourceLink": "https://github.com/dskt-cc"
-    },
-    {
       "title": "HIVE",
       "description": "Full-stack solution for a leading bio-link platform.",
       "technologies": ["typescript", "nextjs", "mongodb"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
+    },
+    {
+      "title": "dskt.cc",
+      "description": "Modding repository and documentation for Desktop Mate software. This project is now archived due to Infiniteloop killing off modding support.", 
+      "technologies": ["typescript", "fastify", "nextjs"],
+      "demoLink": "https://dskt.cc",
+      "sourceLink": "https://github.com/dskt-cc"
+    },
+    {
+      "title": "MateChat",
+      "description": "MelonLoader mod for (legacy) Desktop Mate that allows you to chat with LLM APIs. This project is now archived due to Infiniteloop killing off modding support.", 
+      "technologies": ["c#"],
+      "demoLink": "https://dskt.cc/mods/matechat",
+      "sourceLink": "https://github.com/dvhsh/matechat"
     },
     {
       "title": "slapshot.ts",
