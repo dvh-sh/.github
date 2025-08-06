@@ -13,7 +13,7 @@
         "title": "Raycast",
         "description": "Advanced application launcher with extended features.",
         "link": "https://www.raycast.com/",
-        "price": "Free",
+        "price": "Freemium",
         "brewInstall": "brew install --cask raycast",
         "operatingSystem": "macOS"
       },
