@@ -1,0 +1,95 @@
+{
+  "profile": {
+    "name": "David Heffler",
+    "title": "Full-Stack Software Engineer",
+    "email": "david@dvh.sh",
+    "website": "dvh.sh",
+    "github": "github.com/dvhsh",
+    "linkedin": "linkedin.com/in/dvhsh",
+    "location": "Los Angeles, CA"
+  },
+  "recentWork": [
+    {
+      "name": "Dystowned",
+      "type": "E-Commerce Platform",
+      "date": "Jul 2024 - Present",
+      "description": "Custom streetwear e-commerce with inventory management",
+      "tech": ["Next.js", "Square API", "MongoDB", "Airtable"],
+      "metrics": "Live production site with active sales"
+    },
+    {
+      "name": "PaStore",
+      "type": "Audio Equipment Marketplace", 
+      "date": "Sep 2024 - Present",
+      "description": "Full-stack marketplace for professional audio equipment",
+      "tech": ["TypeScript", "Next.js", "MongoDB", "Docker"],
+      "metrics": "2,000+ monthly users, 100+ products"
+    },
+    {
+      "name": "SchuttingMasters",
+      "type": "B2C Quoting System",
+      "date": "Sep - Oct 2024",
+      "description": "Custom quoting and review system for Dutch contractor",
+      "tech": ["React", "Next.js", "S3", "MongoDB"],
+      "metrics": "Automated quote generation, reduced processing time by 70%"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Founder & Technical Consultant",
+      "company": "Haruhime Holdings",
+      "type": "Self-employed",
+      "startDate": "2024-03",
+      "endDate": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Deliver production-ready solutions for international clients",
+        "Full-stack development with modern CI/CD practices",
+        "Direct client communication and project management"
+      ]
+    },
+    {
+      "title": "Software Development Engineer",
+      "company": "ThreatNet",
+      "type": "Full-time",
+      "startDate": "2021-03",
+      "endDate": "2023-03",
+      "location": "Remote",
+      "bullets": [
+        "Built 20+ OSINT tools for enterprise security platform",
+        "Microservices architecture, API design, data pipelines",
+        "External Attack Surface Management (EASM) features"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Mt. San Jacinto College",
+      "degree": "AS Mathematics & AS Computer Science",
+      "dates": "2024 - 2026"
+    }
+  ],
+  "projects": [
+    {
+      "title": "NITROUS",
+      "shortDescription": "Open-source OSINT platform",
+      "technologies": ["TypeScript", "React", "Next.js", "Fastify"],
+      "link": "https://nitrous-oxi.de"
+    },
+    {
+      "title": "HIVE",
+      "shortDescription": "Bio-link platform",
+      "technologies": ["TypeScript", "Next.js", "MongoDB"],
+      "link": "https://github.com/dvhsh/hive"
+    }
+  ],
+  "skills": [
+    "TypeScript", "JavaScript", "Python", "Java", "C++",
+    "React", "Next.js", "Express", "Fastify",
+    "Git", "Docker", "Linux", "MongoDB", "PostgreSQL",
+    "CI/CD", "Microservices", "API Design"
+  ],
+  "works": [],
+  "positions": [],
+  "software": []
+}
