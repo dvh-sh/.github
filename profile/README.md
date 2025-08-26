@@ -1,4 +1,4 @@
-# DVH.SH
+# dvh.sh
 
 portfolio • resume • blog • misc
 
