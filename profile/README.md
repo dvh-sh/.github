@@ -9,4 +9,4 @@ portfolio • resume • blog • misc
 -  catppuccin.dvh.sh — small API/util project
 
 ## data
--  portfolio.json in .github is the single source of truth (experience, works, projects, skills, software, etc.)
+-  portfolio.json in .github is the single source of truth (experience, works, projects, skills, software, etc.) for the portfolio/resume generator
