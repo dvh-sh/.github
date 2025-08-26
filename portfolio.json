@@ -65,32 +65,6 @@
       "positionTitle": "Founder & Technical Consultant"
     }
   ],
-  "recentWork": [
-    {
-      "name": "Dystowned",
-      "type": "E-Commerce Platform",
-      "date": "Jul 2024 - Present",
-      "description": "Custom streetwear storefront integrating inventory, product variants, and fulfillment workflows.",
-      "tech": ["Next.js", "TypeScript", "Square API", "MongoDB", "Airtable", "Docker", "Nginx"],
-      "metrics": "Live production storefront with ongoing drops; centralized ops for catalog and orders."
-    },
-    {
-      "name": "PaStore",
-      "type": "Marketplace",
-      "date": "Sep 2024 - Present",
-      "description": "Full-stack marketplace for professional audio equipment with admin panel and product search.",
-      "tech": ["TypeScript", "Next.js", "React", "MongoDB", "Docker", "Coolify"],
-      "metrics": "2,000+ monthly users, 100+ listed products; optimized SEO and image handling."
-    },
-    {
-      "name": "SchuttingMasters",
-      "type": "B2B Quoting",
-      "date": "Sep 2024 - Oct 2024",
-      "description": "Object-oriented quoting system with review publication and project portfolio pages.",
-      "tech": ["React", "Next.js", "MongoDB", "S3/R2", "Nginx"],
-      "metrics": "Automated quote generation reduced manual effort; streamlined lead intake."
-    }
-  ],
   "works": [
     {
       "title": "Dystowned",
@@ -125,12 +99,6 @@
       "school": "Mt. San Jacinto College",
       "degree": "Associate of Science - AS, Computer Science",
       "dates": "2024 - 2026",
-      "expected": true
-    },
-    {
-      "school": "",
-      "degree": "Bachelor of Software Development (anticipated upon completion of associate degree)",
-      "dates": "Expected Fall 2028",
       "expected": true
     }
   ],
