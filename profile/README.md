@@ -23,31 +23,36 @@
   color:#cdd6f4;
 ">
   <!-- repos -->
-  <h3 style="margin:.25rem 0 .35rem 0; color:#f5c2e7;">repos</h3>
+  <h3 style="margin:.25rem 0 .5rem 0; color:#f5c2e7;">repos</h3>
   <ul style="list-style:none; padding:0; margin:.25rem 0 1rem 0;">
     <li style="margin:.35rem 0;">
       <b>dvh.sh</b>
-      <span style="color:#a6adc8;">— next.js portfolio app, generates text/pdf resume</span>
+      <span style="color:#a6adc8;"> — next.js portfolio app, generates text/pdf resume</span>
     </li>
     <li style="margin:.35rem 0;">
       <b>.github</b>
-      <span style="color:#a6adc8;">— org profile + resources</span>
+      <span style="color:#a6adc8;"> — org profile + resources</span>
     </li>
     <li style="margin:.35rem 0;">
       <b>blog</b>
-      <span style="color:#a6adc8;">— blog posts and cookbook entries</span>
+      <span style="color:#a6adc8;"> — blog posts and cookbook entries</span>
     </li>
   </ul>
 
+  <!-- note -->
+  <p style="margin:.25rem 0 1rem 0; color:#a6adc8;">
+    occasionally, extra tools/projects are published here as standalone repos.
+  </p>
+
   <!-- data -->
-  <h3 style="margin:.25rem 0 .35rem 0; color:#f5c2e7;">data</h3>
+  <h3 style="margin:.25rem 0 .5rem 0; color:#f5c2e7;">data</h3>
   <p style="margin:.25rem 0 1rem 0;">
     <code style="background:#1a1c22; padding:.12rem .35rem; border:1px solid #2a2d36; border-radius:4px; color:#cdd6f4;">portfolio.json</code>
     in <b>.github</b> feeds the site (experience, works, projects, skills, software, etc). dvh.sh fetches + caches it server‑side.
   </p>
 
   <!-- links -->
-  <h3 style="margin:.25rem 0 .35rem 0; color:#f5c2e7;">links</h3>
+  <h3 style="margin:.25rem 0 .5rem 0; color:#f5c2e7;">links</h3>
   <p style="margin:.25rem 0;">
     <a href="https://dvh.sh" style="color:#f5c2e7; text-decoration:none; border-bottom:2px solid #f5c2e7;">site</a>
     &nbsp;•&nbsp;
