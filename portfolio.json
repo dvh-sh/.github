@@ -8,7 +8,7 @@
     "linkedin": "linkedin.com/in/dvhsh",
     "location": "Los Angeles Metropolitan Area"
   },
-  "about": "I'm a full-stack developer based in Southern California, currently studying mathematics and computer science at MSJC while working on interesting software projects. I've had the opportunity to build production systems from scratch; Most recently developing complete storefronts and custom quoting solutions for European clients. My work typically involves TypeScript/React frontends paired with robust APIs, deployed through modern CI/CD pipelines.",
+  "about": "I'm a self-taught full-stack software engineer with 7+ years of experience, currently balancing coding with full-time studies. I build production systems end-to-end, with TypeScript/React frontends, robust APIs, CI/CD, and pragmatic infrastructure. Outside of tech, I enjoy photography, hiking, chess, Tetris, rhythm games, and maintaining a cacti garden.",
   "experience": [
     {
       "title": "Founder & Technical Consultant",
@@ -17,7 +17,13 @@
       "startDate": "2024-03",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "Founded technical consultancy delivering custom software solutions for international clients. Recent projects include PaStore (e-commerce platform serving 2,000+ monthly users) and SchuttingMasters (custom quoting system). Responsible for full-stack development, CI/CD implementation, and client project delivery."
+      "description": "Founded a consultancy delivering full-stack, production-grade systems for international clients with fast iterations and reliable operations.",
+      "bullets": [
+        "Architected and shipped e-commerce and B2B platforms using TypeScript, Next.js, and MongoDB/PostgreSQL.",
+        "Implemented CI/CD with Docker and Coolify; standardized deploy workflows, rollbacks, and environment parity.",
+        "Established operational readiness: uptime monitoring, structured logs, backups, SSL/TLS, and CDN caching.",
+        "Partnered directly with stakeholders to scope clear milestones and deliver on aggressive timelines."
+      ]
     },
     {
       "title": "Software Development Engineer",
@@ -26,7 +32,13 @@
       "startDate": "2021-03",
       "endDate": "2023-03",
       "location": "United States · Remote",
-      "description": "Developed 20+ OSINT tools as part of a small team building an External Attack Surface Management platform. Worked extensively with microservices architecture, focusing on scalable solutions for enterprise security needs."
+      "description": "Contributed to an External Attack Surface Management (EASM) platform focused on scalable OSINT and security intelligence.",
+      "bullets": [
+        "Engineered 20+ OSINT collectors with resilient scheduling, backoff, and fault-tolerance.",
+        "Designed microservice APIs and message-driven data pipelines; improved data integrity and throughput.",
+        "Reduced ingestion latency and improved observability with structured logs and metrics.",
+        "Collaborated on data modeling and storage strategies balancing cost, speed, and retention requirements."
+      ]
     },
     {
       "title": "Associate",
@@ -35,83 +47,132 @@
       "startDate": "2022-09",
       "endDate": "2023-02",
       "location": "Naperville, Illinois · On-site",
-      "description": "Team member at Jet’s Pizza franchise. Assisted with employee scheduling and large catering orders for tax-exempt organizations. Handled various operational roles including food prep, cooking, cashier, phones, and cleaning."
+      "description": "Team member at a Jet’s Pizza franchise with cross-functional operational responsibilities.",
+      "bullets": [
+        "Assisted with employee scheduling and large catering orders for tax-exempt organizations.",
+        "Handled daily operations including food prep, cooking, cashier duties, phones, and cleaning.",
+        "Worked effectively in a fast-paced environment while maintaining customer satisfaction."
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "title": "Haruhime Holdings",
+      "shortDescription": "Consultancy delivering full-stack software solutions, deployment pipelines, and ongoing operations.",
+      "technologies": ["typescript", "nextjs", "docker", "coolify", "nginx", "mongodb", "postgresql"],
+      "link": "https://dvh.sh",
+      "date": "Mar 2024 - Present",
+      "positionTitle": "Founder & Technical Consultant"
+    }
+  ],
+  "recentWork": [
+    {
+      "name": "Dystowned",
+      "type": "E-Commerce Platform",
+      "date": "Jul 2024 - Present",
+      "description": "Custom streetwear storefront integrating inventory, product variants, and fulfillment workflows.",
+      "tech": ["Next.js", "TypeScript", "Square API", "MongoDB", "Airtable", "Docker", "Nginx"],
+      "metrics": "Live production storefront with ongoing drops; centralized ops for catalog and orders."
+    },
+    {
+      "name": "PaStore",
+      "type": "Marketplace",
+      "date": "Sep 2024 - Present",
+      "description": "Full-stack marketplace for professional audio equipment with admin panel and product search.",
+      "tech": ["TypeScript", "Next.js", "React", "MongoDB", "Docker", "Coolify"],
+      "metrics": "2,000+ monthly users, 100+ listed products; optimized SEO and image handling."
+    },
+    {
+      "name": "SchuttingMasters",
+      "type": "B2B Quoting",
+      "date": "Sep 2024 - Oct 2024",
+      "description": "Object-oriented quoting system with review publication and project portfolio pages.",
+      "tech": ["React", "Next.js", "MongoDB", "S3/R2", "Nginx"],
+      "metrics": "Automated quote generation reduced manual effort; streamlined lead intake."
+    }
+  ],
+  "works": [
+    {
+      "title": "Dystowned",
+      "shortDescription": "Streetwear e-commerce with centralized product and inventory management; Square checkout.",
+      "technologies": ["Next.js", "TypeScript", "Square API", "MongoDB", "Airtable", "Docker", "Nginx"],
+      "link": "https://dystowned.com",
+      "date": "Jul 2024 - Present"
+    },
+    {
+      "title": "PaStore",
+      "shortDescription": "Marketplace for professional audio equipment with admin panel, search, and SEO-optimized catalog.",
+      "technologies": ["TypeScript", "Next.js", "React", "MongoDB", "Docker", "Coolify"],
+      "link": "https://pastore.nl",
+      "date": "Sep 2024 - Present"
+    },
+    {
+      "title": "SchuttingMasters",
+      "shortDescription": "Custom quoting system, review publication, and landing pages with project portfolio.",
+      "technologies": ["React", "Next.js", "MongoDB", "S3/R2", "Nginx"],
+      "link": "https://schuttingmasters.nl",
+      "date": "Sep 2024 - Oct 2024"
     }
   ],
   "education": [
     {
       "school": "Mt. San Jacinto College",
       "degree": "Associate of Science - AS, Mathematics",
-      "dates": "2024 - 2026"
+      "dates": "2024 - 2026",
+      "expected": true
     },
     {
       "school": "Mt. San Jacinto College",
       "degree": "Associate of Science - AS, Computer Science",
-      "dates": "2024 - 2026"
-    }
-  ],
-  "works": [
-    {
-      "title": "Dystowned",
-      "shortDescription": "Custom streetwear e-commerce platform",
-      "technologies": ["Next.js", "Square API", "MongoDB", "Airtable"],
-      "link": "https://dystowned.com",
-      "date": "Jul 2024 - Present"
+      "dates": "2024 - 2026",
+      "expected": true
     },
     {
-      "title": "PaStore",
-      "shortDescription": "Full-stack marketplace for professional audio equipment",
-      "technologies": ["TypeScript", "Next.js", "MongoDB", "Docker"],
-      "link": "https://pastore.nl",
-      "date": "Sep 2024 - Present"
-    },
-    {
-      "title": "SchuttingMasters",
-      "shortDescription": "B2B quoting and review system",
-      "technologies": ["React", "Next.js", "S3", "MongoDB"],
-      "link": "https://schuttingmasters.nl",
-      "date": "Sep - Oct 2024"
+      "school": "",
+      "degree": "Bachelor of Software Development (anticipated upon completion of associate degree)",
+      "dates": "Expected Fall 2028",
+      "expected": true
     }
   ],
   "projects": [
     {
       "title": "NITROUS",
-      "description": "Research project focused on the fundamentals of open-source intelligence (OSINT) through HTTP requests to public APIs.",
-      "technologies": ["TypeScript", "Fastify", "Next.js"],
+      "description": "Open-source OSINT platform with Next.js/React/TailwindCSS frontend and Fastify backend.",
+      "technologies": ["TypeScript", "React", "Next.js", "Fastify", "Python"],
       "demoLink": "https://nitrous-oxi.de",
       "sourceLink": "https://github.com/nitrous-oxi-de"
     },
     {
       "title": "HIVE",
-      "description": "Full-stack solution for a leading bio-link platform.",
+      "description": "Full-stack bio-link platform with analytics, customization, and shareable profiles.",
       "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
     },
     {
       "title": "dskt.cc",
-      "description": "Modding repository and documentation for Desktop Mate software. This project is now archived due to Infiniteloop killing off modding support.",
+      "description": "Modding repository and documentation for Desktop Mate; archived (vendor removed mod support).",
       "technologies": ["TypeScript", "Fastify", "Next.js"],
       "demoLink": "https://dskt.cc",
       "sourceLink": "https://github.com/dskt-cc"
     },
     {
       "title": "MateChat",
-      "description": "MelonLoader mod for (legacy) Desktop Mate that allows you to chat with LLM APIs. This project is now archived due to Infiniteloop killing off modding support.",
+      "description": "MelonLoader mod enabling LLM chat for legacy Desktop Mate; built with reverse engineering techniques.",
       "technologies": ["C#"],
       "demoLink": "https://dskt.cc/mods/matechat",
       "sourceLink": "https://github.com/dvhsh/matechat"
     },
     {
       "title": "slapshot.ts",
-      "description": "An unofficial 'Slapshot: Rebound' API wrapper.",
+      "description": "Unofficial 'Slapshot: Rebound' API wrapper with TypeScript typings and Axios client.",
       "technologies": ["TypeScript", "Axios"],
       "demoLink": "https://slapshot.js.org",
       "sourceLink": "https://github.com/dvhsh/slapshot.ts"
     },
     {
       "title": "Catppuccin (Raycast)",
-      "description": "Quickly view the Catppuccin color palette, userstyles, ports, and documentation within Raycast.",
+      "description": "Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official repo.",
       "technologies": ["TypeScript", "React"],
       "demoLink": "https://raycast.com/dvhsh/catppuccin",
       "sourceLink": "https://github.com/raycast/extensions/tree/main/extensions/catppuccin"
@@ -119,16 +180,35 @@
   ],
   "skills": {
     "programmingLanguages": [
-      "javascript", "typescript", "c", "cplusplus", "php", "python", "kotlin", "csharp"
+      "javascript",
+      "typescript",
+      "c",
+      "cplusplus",
+      "php",
+      "python",
+      "kotlin",
+      "csharp"
     ],
     "frameworks": [
-      "react", "nextjs", "fastify", "express", "spring"
+      "react",
+      "nextjs",
+      "fastify",
+      "express",
+      "spring"
     ],
     "tools": [
-      "git", "linux", "nginx", "docker", "coolify", "letsencrypt"
+      "git",
+      "linux",
+      "nginx",
+      "docker",
+      "coolify",
+      "letsencrypt"
     ],
     "cloud": [
-      "mongodb", "mysql", "digitalocean", "oracle"
+      "mongodb",
+      "mysql",
+      "digitalocean",
+      "oracle"
     ]
   },
   "software": {
@@ -177,30 +257,31 @@
       },
       {
         "title": "Things",
-        "description": "Things is the award-winning personal task manager that helps you plan your day, manage your projects, and make real progress toward your goals.",
+        "description": "Award-winning personal task manager for planning and tracking projects.",
         "link": "https://culturedcode.com/things/",
         "price": "Paid",
         "operatingSystem": "macOS, iOS, iPadOS, visionOS"
       },
       {
         "title": "Proton",
-        "description": "Secure email, VPN, and password manager.",
+        "description": "Secure email, VPN, and password manager suite.",
         "link": "https://proton.me/",
         "price": "Freemium",
         "operatingSystem": "Web"
       },
       {
         "title": "Ghostty",
-        "description": "Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+        "description": "Fast, cross-platform terminal emulator with GPU acceleration and native UI.",
         "link": "https://ghostty.org",
         "price": "Open Source",
+        "brewInstall": "brew install --cask ghostty",
         "operatingSystem": "macOS"
       }
     ],
     "Utilities": [
       {
         "title": "Stats",
-        "description": "Monitor system stats from your menu bar.",
+        "description": "Menu-bar system monitoring for macOS.",
         "link": "https://github.com/exelban/stats",
         "price": "Open Source",
         "brewInstall": "brew install --cask stats",
@@ -208,7 +289,7 @@
       },
       {
         "title": "Ice",
-        "description": "Customize your menu bar.",
+        "description": "Customize the macOS menu bar with advanced controls.",
         "link": "https://github.com/jordanbaird/Ice",
         "price": "Open Source",
         "brewInstall": "brew install --cask jordanbaird-ice",
@@ -216,14 +297,14 @@
       },
       {
         "title": "CleanShot X",
-        "description": "Feature-rich screen capture tool with advanced editing and sharing options.",
+        "description": "Feature-rich screen capture tool with editing and sharing.",
         "link": "https://cleanshot.com/",
         "price": "Paid",
         "operatingSystem": "macOS"
       },
       {
         "title": "IINA",
-        "description": "Modern, open-source media player for macOS with extensive format support.",
+        "description": "Modern, open-source macOS media player with wide codec support.",
         "link": "https://iina.io",
         "price": "Open Source",
         "operatingSystem": "macOS"
@@ -237,14 +318,14 @@
       },
       {
         "title": "Clop",
-        "description": "Image, video, PDF and clipboard optimiser. Copy large, paste small, send fast.",
+        "description": "Image, video, PDF and clipboard optimizer; copy large, paste small.",
         "link": "https://lowtechguys.com/clop/",
         "price": "Freemium",
         "operatingSystem": "macOS"
       },
       {
         "title": "Dropover",
-        "description": "Effortless Drag & Drop on your Mac. Dropover is a macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows.",
+        "description": "Drag & drop shelf for stashing and moving content without side-by-side windows.",
         "link": "https://dropoverapp.com",
         "price": "Freemium",
         "operatingSystem": "macOS"
@@ -253,21 +334,21 @@
     "Creatives": [
       {
         "title": "Affinity Photo",
-        "description": "Professional photo editing software for creative enthusiasts.",
+        "description": "Professional photo editing software.",
         "link": "https://affinity.serif.com/en-us/photo/",
         "price": "Paid",
         "operatingSystem": "macOS, Windows, iPad"
       },
       {
         "title": "Affinity Designer",
-        "description": "Powerful vector graphic design software with a user-friendly interface.",
+        "description": "Vector graphic design tool with a user-friendly interface.",
         "link": "https://affinity.serif.com/en-us/designer/",
         "price": "Paid",
         "operatingSystem": "macOS, Windows, iPad"
       },
       {
         "title": "Affinity Publisher",
-        "description": "Robust desktop publishing software for multimedia projects.",
+        "description": "Desktop publishing for magazines, books, and collateral.",
         "link": "https://affinity.serif.com/en-us/publisher/",
         "price": "Paid",
         "operatingSystem": "macOS, Windows"
