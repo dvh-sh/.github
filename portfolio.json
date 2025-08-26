@@ -117,12 +117,20 @@
       "sourceLink": "https://github.com/raycast/extensions/tree/main/extensions/catppuccin"
     }
   ],
-  "skills": [
-    "JavaScript", "TypeScript", "C", "C++", "PHP", "Python", "Kotlin", "C#",
-    "React", "Next.js", "Fastify", "Express", "Spring",
-    "Git", "Linux", "Nginx", "Docker", "Coolify", "Let's Encrypt",
-    "MongoDB", "MySQL", "DigitalOcean", "Oracle"
-  ],
+  "skills": {
+    "programmingLanguages": [
+      "javascript", "typescript", "c", "cplusplus", "php", "python", "kotlin", "csharp"
+    ],
+    "frameworks": [
+      "react", "nextjs", "fastify", "express", "spring"
+    ],
+    "tools": [
+      "git", "linux", "nginx", "docker", "coolify", "letsencrypt"
+    ],
+    "cloud": [
+      "mongodb", "mysql", "digitalocean", "oracle"
+    ]
+  },
   "software": {
     "Essentials": [
       {
