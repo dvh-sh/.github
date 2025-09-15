@@ -79,7 +79,7 @@
       "startDate": "2022-08",
       "endDate": "2023-02",
       "location": "Naperville, Illinois · On-site",
-      "description": "Team member at a Jet’s Pizza franchise with cross-functional operational responsibilities.",
+      "description": "Team member at a Jet's Pizza franchise with cross-functional operational responsibilities.",
       "bullets": [
         "Assisted with employee scheduling and large catering orders for tax-exempt organizations.",
         "Handled daily operations including food prep, cooking, cashier duties, phones, and cleaning.",
@@ -138,7 +138,7 @@
      {
       "title": "brutalcomponent",
       "description": "Open-source react component library with brutalism themeing.",
-      "technologies": ["TypeScript", "React", "tailwindcss", "Next.js",],
+      "technologies": ["TypeScript", "React", "tailwindcss", "Next.js"],
       "demoLink": "https://brutalcomponent.vercel.app",
       "sourceLink": "https://github.com/brutalcomponent"
     },
