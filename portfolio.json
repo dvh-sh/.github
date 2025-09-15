@@ -135,6 +135,13 @@
     }
   ],
   "projects": [
+     {
+      "title": "brutalcomponent",
+      "description": "Open-source react component library with brutalism themeing.",
+      "technologies": ["TypeScript", "React", "tailwindcss", "Next.js",],
+      "demoLink": "https://brutalcomponent.vercel.app",
+      "sourceLink": "https://github.com/brutalcomponent"
+    },
     {
       "title": "NITROUS",
       "description": "Open-source OSINT platform with Next.js/React/TailwindCSS frontend and Fastify backend.",
