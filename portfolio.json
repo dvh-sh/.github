@@ -40,7 +40,7 @@
     "linkedin": "linkedin.com/in/dvhsh",
     "location": "Los Angeles Metropolitan Area"
   },
-  "about": "I'm a self-taught full-stack software engineer with 7+ years of experience, currently balancing coding with full-time studies. I build production systems end-to-end, with TypeScript/React frontends, robust APIs, CI/CD, and pragmatic infrastructure. Outside of tech, I enjoy photography, hiking, chess, Tetris, rhythm games, and maintaining a cacti garden.",
+  "about": "Fullstack software engineer with 4+ years of professional experience, currently balancing entrepanurship with academics. Outside of work and school, I enjoy photography, hiking, Chess, Tetris, rhythm games, and maintaining my cactus garden.",
   "experience": [
     {
       "title": "Founder & Technical Consultant",
@@ -49,10 +49,10 @@
       "startDate": "2024-03",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "Founded a consultancy delivering full-stack, production-grade systems for international clients with fast iterations and reliable operations.",
+      "description": "Founded a consultancy delivering fullstack, production-grade systems for international clients with fast iterations and reliable operations.",
       "bullets": [
-        "Architected and shipped e-commerce and B2C platforms using TypeScript, Next.js, and MongoDB/PostgreSQL.",
-        "Implemented CI/CD with Docker and Coolify; standardized deploy workflows, rollbacks, and environment parity.",
+        "Architected and shipped e-commerce and B2C platforms using TypeScript, Next.js, and MongoDB.",
+        "Implemented CI/CD with Docker, Vercel, and Coolify; standardized deploy workflows, rollbacks, and environment parity.",
         "Established operational readiness: uptime monitoring, structured logs, backups, SSL/TLS, and CDN caching.",
         "Partnered directly with stakeholders to scope clear milestones and deliver on aggressive timelines."
       ]
@@ -66,8 +66,8 @@
       "location": "United States · Remote",
       "description": "Contributed to an External Attack Surface Management (EASM) platform focused on scalable OSINT and security intelligence.",
       "bullets": [
-        "Engineered 20+ OSINT collectors with resilient scheduling, backoff, and fault-tolerance.",
-        "Designed microservice APIs and message-driven data pipelines; improved data integrity and throughput.",
+        "Engineered 20+ OSINT tools on top of a modular API framework.",
+        "Designed microservice APIs and message driven data pipelines; improved data integrity and throughput.",
         "Reduced ingestion latency and improved observability with structured logs and metrics.",
         "Collaborated on data modeling and storage strategies balancing cost, speed, and retention requirements."
       ]
@@ -90,7 +90,7 @@
   "positions": [
     {
       "title": "Haruhime Holdings",
-      "shortDescription": "Consultancy delivering full-stack software solutions, deployment pipelines, and ongoing operations.",
+      "shortDescription": "Consultancy delivering fullstack software solutions, deployment pipelines, and ongoing operations.",
       "technologies": ["typescript", "nextjs", "docker", "coolify", "nginx", "mongodb", "postgresql"],
       "link": "https://dvh.sh",
       "date": "Mar 2024 - Present",
@@ -151,7 +151,7 @@
     },
     {
       "title": "HIVE",
-      "description": "Full-stack bio-link platform with analytics, customization, and shareable profiles.",
+      "description": "fullstack bio-link platform with analytics, customization, and shareable profiles.",
       "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
