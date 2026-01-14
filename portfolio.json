@@ -135,18 +135,11 @@
     }
   ],
   "projects": [
-     {
-      "title": "brutalcomponent",
-      "description": "Open-source react component library with brutalism themeing.",
-      "technologies": ["TypeScript", "React", "tailwindcss", "Next.js"],
-      "demoLink": "https://brutalcomponent.vercel.app",
-      "sourceLink": "https://github.com/brutalcomponent"
-    },
     {
       "title": "NITROUS",
       "description": "Open-source OSINT platform with Next.js/React/TailwindCSS frontend and Fastify backend.",
       "technologies": ["TypeScript", "React", "Next.js", "Fastify", "Python"],
-      "demoLink": "https://nitrous-oxi.de",
+      "demoLink": "https://nitrous.dvh.sh",
       "sourceLink": "https://github.com/nitrous-oxi-de"
     },
     {
@@ -179,10 +172,10 @@
     },
     {
       "title": "Catppuccin (Raycast)",
-      "description": "Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official repo.",
+      "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official raycast/extensions repo.",
       "technologies": ["TypeScript", "React"],
-      "demoLink": "https://raycast.com/dvhsh/catppuccin",
-      "sourceLink": "https://github.com/raycast/extensions/tree/main/extensions/catppuccin"
+      "demoLink": "https://catppuccin.dvh.sh",
+      "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
     }
   ],
   "skills": {
