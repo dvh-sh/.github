@@ -1,6 +1,7 @@
 {
   "keywords": [
     "architected",
+    "assisted",
     "automated",
     "collaborated",
     "delivered",
@@ -9,6 +10,7 @@
     "developed",
     "easm",
     "engineered",
+    "environment",
     "established",
     "hardened",
     "implemented",
@@ -17,6 +19,7 @@
     "led",
     "measured",
     "observability",
+    "operations",
     "optimized",
     "osint",
     "partnered",
@@ -25,12 +28,13 @@
     "refined",
     "reliability",
     "resilience",
+    "retention",
     "scaled",
     "shipped",
     "standardized",
     "throughput",
     "uptime"
-  ],
+  ]
   "profile": {
     "name": "David Heffler",
     "title": "Software Engineer | Mathematics & CS Student @ MSJC",
@@ -175,12 +179,7 @@
     "programmingLanguages": [
       "javascript",
       "typescript",
-      "c",
       "cplusplus",
-      "php",
-      "python",
-      "kotlin",
-      "csharp"
     ],
     "frameworks": [
       "react",
@@ -201,7 +200,8 @@
       "mongodb",
       "mysql",
       "digitalocean",
-      "oracle"
+      "oracle",
+      "vercel"
     ]
   },
   "software": {
