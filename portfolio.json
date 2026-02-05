@@ -154,13 +154,6 @@
       "sourceLink": "https://github.com/hive-to"
     },
     {
-      "title": "MateChat",
-      "description": "MelonLoader mod enabling LLM chat for legacy Desktop Mate; built with reverse engineering techniques.",
-      "technologies": ["C#"],
-      "demoLink": "https://dskt.cc/mods/matechat",
-      "sourceLink": "https://github.com/dvhsh/matechat"
-    },
-    {
       "title": "slapshot.ts",
       "description": "Unofficial 'Slapshot: Rebound' API wrapper with TypeScript typings and Axios client.",
       "technologies": ["TypeScript", "Axios"],
