@@ -150,13 +150,6 @@
       "sourceLink": "https://github.com/hive-to"
     },
     {
-      "title": "dskt.cc",
-      "description": "Modding repository and documentation for Desktop Mate; archived (vendor removed mod support).",
-      "technologies": ["TypeScript", "Fastify", "Next.js"],
-      "demoLink": "https://dskt.cc",
-      "sourceLink": "https://github.com/dskt-cc"
-    },
-    {
       "title": "MateChat",
       "description": "MelonLoader mod enabling LLM chat for legacy Desktop Mate; built with reverse engineering techniques.",
       "technologies": ["C#"],
@@ -172,7 +165,7 @@
     },
     {
       "title": "Catppuccin (Raycast)",
-      "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official raycast/extensions repo.",
+      "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official @raycast/extensions repo.",
       "technologies": ["TypeScript", "React"],
       "demoLink": "https://catppuccin.dvh.sh",
       "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
