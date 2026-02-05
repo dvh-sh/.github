@@ -179,7 +179,7 @@
     "programmingLanguages": [
       "javascript",
       "typescript",
-      "cplusplus",
+      "cplusplus"
     ],
     "frameworks": [
       "react",
