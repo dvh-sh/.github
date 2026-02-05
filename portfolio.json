@@ -163,7 +163,7 @@
     {
       "title": "Catppuccin (Raycast)",
       "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official @raycast/extensions repo.",
-      "technologies": ["TypeScript", "React"],
+      "technologies": ["TypeScript", "React", "cplusplus"],
       "demoLink": "https://catppuccin.dvh.sh",
       "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
     }
