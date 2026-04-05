@@ -47,6 +47,21 @@
   "about": "Fullstack software engineer with 4+ years of professional experience, currently balancing entrepanurship with academics. Outside of work and school, I enjoy photography, hiking, Chess, Tetris, rhythm games, and maintaining my cactus garden.",
   "experience": [
     {
+      "title": "Founder",
+      "company": "VANE",
+      "type": "Self-employed",
+      "startDate": "2025-03",
+      "endDate": "Present",
+      "location": "United States · Remote",
+      "description": "Building application-layer bot intelligence — detects autonomous behavior, scores entities over time, and responds automatically.",
+      "bullets": [
+        "Designed and shipped a real-time signal ingestion pipeline using Redis Streams with in-process consumer workers.",
+        "Built a configurable rules engine with customer-defined conditions and automated enforcement actions (block, challenge, rate-limit, webhook).",
+        "Developed an open source SDK (@usevane/core, @usevane/next, @usevane/cli, @usevane/mcp) for 30-second installs via CLI scaffolding.",
+        "Implemented AI-operated interfaces: dashboard copilot, MCP server for editor integration, and natural language rule authoring."
+      ]
+    },
+    {
       "title": "Founder & Technical Consultant",
       "company": "Haruhime Holdings",
       "type": "Self-employed",
