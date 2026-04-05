@@ -50,7 +50,7 @@
       "title": "Founder",
       "company": "VANE",
       "type": "Self-employed",
-      "startDate": "2025-03",
+      "startDate": "2026-03",
       "endDate": "Present",
       "location": "United States · Remote",
       "description": "Building application-layer bot intelligence — detects autonomous behavior, scores entities over time, and responds automatically.",
@@ -112,7 +112,7 @@
       "shortDescription": "Application-layer bot intelligence. Detects autonomous behavior, scores entities over time, and responds automatically.",
       "technologies": ["typescript", "nextjs", "mongodb", "redis", "bun"],
       "link": "https://vane.moe",
-      "date": "Mar 2025 - Present",
+      "date": "Mar 2026 - Present",
       "positionTitle": "Founder"
     },
     {
