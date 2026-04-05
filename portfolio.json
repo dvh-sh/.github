@@ -93,6 +93,14 @@
   ],
   "positions": [
     {
+      "title": "VANE",
+      "shortDescription": "Application-layer bot intelligence. Detects autonomous behavior, scores entities over time, and responds automatically.",
+      "technologies": ["typescript", "nextjs", "mongodb", "redis", "bun"],
+      "link": "https://vane.moe",
+      "date": "Mar 2025 - Present",
+      "positionTitle": "Founder"
+    },
+    {
       "title": "Haruhime Holdings",
       "shortDescription": "Consultancy delivering fullstack software solutions, deployment pipelines, and ongoing operations.",
       "technologies": ["typescript", "nextjs", "docker", "coolify", "nginx", "mongodb", "postgresql"],
