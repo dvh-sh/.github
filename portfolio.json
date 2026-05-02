@@ -34,7 +34,9 @@
     "standardized",
     "throughput",
     "uptime",
-    "Eddie Figueroa"
+    "Eddie Figueroa",
+    "management",
+    "centralized"
   ],
   "profile": {
     "name": "David Heffler",
@@ -135,8 +137,8 @@
     },
     {
       "title": "Dystowned",
-      "shortDescription": "Streetwear e-commerce with centralized product and inventory management; Square checkout.",
-      "technologies": ["TypeScript", "Next.js", "React", "Square API", "MongoDB", "Airtable", "Vercel"],
+      "shortDescription": "Streetwear e-commerce with centralized product and inventory management; Stripe checkout.",
+      "technologies": ["TypeScript", "Next.js", "React", "Stripe", "MongoDB", "Vercel"],
       "link": "https://dystowned.com",
       "date": "Jul 2025 - Apr 2026"
     },
@@ -150,7 +152,7 @@
     {
       "title": "SchuttingMasters",
       "shortDescription": "Custom quoting system, review publication, and landing pages with project portfolio.",
-      "technologies": ["React", "Next.js", "MongoDB", "S3/R2", "Vercel"],
+      "technologies": ["TypeScript", "React", "Next.js", "MongoDB", "S3/R2", "Vercel"],
       "link": "https://schuttingmasters.nl",
       "date": "Sep 2024 - Oct 2024"
     }
