@@ -33,7 +33,8 @@
     "shipped",
     "standardized",
     "throughput",
-    "uptime"
+    "uptime",
+    "Eddie Figueroa"
   ],
   "profile": {
     "name": "David Heffler",
@@ -126,23 +127,30 @@
   ],
   "works": [
     {
+      "title": "Elevated Physqiue",
+      "shortDescription": "Personal fitness coaching website for Eddie Figueroa",
+      "technologies": ["TypeScript", "Next.js", "React", "Vercel"],
+      "link": "https://www.elevatedphysique.club/",
+      "date": "May 2026 - May 2026"
+    },
+    {
       "title": "Dystowned",
       "shortDescription": "Streetwear e-commerce with centralized product and inventory management; Square checkout.",
-      "technologies": ["Next.js", "TypeScript", "Square API", "MongoDB", "Airtable", "Docker", "Nginx"],
+      "technologies": ["TypeScript", "Next.js", "React", "Square API", "MongoDB", "Airtable", "Vercel"],
       "link": "https://dystowned.com",
-      "date": "Jul 2024 - Present"
+      "date": "Jul 2025 - Apr 2026"
     },
     {
       "title": "PaStore",
       "shortDescription": "Marketplace for professional audio equipment with admin panel, search, and SEO-optimized catalog.",
-      "technologies": ["TypeScript", "Next.js", "React", "MongoDB", "Docker", "Coolify"],
+      "technologies": ["TypeScript", "Next.js", "React", "MongoDB", "Vercel"],
       "link": "https://pastore.nl",
       "date": "Sep 2024 - Sep 2024"
     },
     {
       "title": "SchuttingMasters",
       "shortDescription": "Custom quoting system, review publication, and landing pages with project portfolio.",
-      "technologies": ["React", "Next.js", "MongoDB", "S3/R2", "Nginx"],
+      "technologies": ["React", "Next.js", "MongoDB", "S3/R2", "Vercel"],
       "link": "https://schuttingmasters.nl",
       "date": "Sep 2024 - Oct 2024"
     }
