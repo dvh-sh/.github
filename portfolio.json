@@ -131,9 +131,9 @@
   ],
   "works": [
     {
-      "title": "Elevated Physqiue",
-      "shortDescription": "Personal fitness coaching website for Eddie Figueroa",
-      "technologies": ["TypeScript", "Next.js", "React", "Vercel"],
+      "title": "Elevated Physique",
+      "shortDescription": "Marketing + lead-gen site for an ISSA-certified coach. Programmatic SEO landing pages (personas, comparisons), MDX content layer, dark-only design system.",
+      "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "MDX", "Vercel"],
       "link": "https://www.elevatedphysique.club/",
       "date": "May 2026 - May 2026"
     },
