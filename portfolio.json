@@ -38,7 +38,17 @@
     "management",
     "centralized",
     "e-commerce",
-    "Stripe"
+    "Stripe",
+    "SEO",
+    "MDX",
+    "API",
+    "APIs",
+    "SDK",
+    "CLI",
+    "CDN",
+    "CI/CD",
+    "B2C",
+    "MCP"
   ],
   "profile": {
     "name": "David Heffler",
@@ -49,7 +59,7 @@
     "linkedin": "linkedin.com/in/dvhsh",
     "location": "Los Angeles Metropolitan Area"
   },
-  "about": "Fullstack software engineer with 4+ years of professional experience, currently balancing entrepanurship with academics. Outside of work and school, I enjoy photography, hiking, Chess, Tetris, rhythm games, and maintaining my cactus garden.",
+  "about": "Fullstack software engineer with 4+ years of professional experience, currently balancing entrepreneurship with academics. Outside of work and school, I enjoy photography, hiking, chess, Tetris, rhythm games, and maintaining my cactus garden.",
   "experience": [
     {
       "title": "Founder",
@@ -91,7 +101,7 @@
       "description": "Contributed to an External Attack Surface Management (EASM) platform focused on scalable OSINT and security intelligence.",
       "bullets": [
         "Engineered 20+ OSINT tools on top of a modular API framework.",
-        "Designed microservice APIs and message driven data pipelines; improved data integrity and throughput.",
+        "Designed microservice APIs and message-driven data pipelines; improved data integrity and throughput.",
         "Reduced ingestion latency and improved observability with structured logs and metrics.",
         "Collaborated on data modeling and storage strategies balancing cost, speed, and retention requirements."
       ]
@@ -183,7 +193,7 @@
     },
     {
       "title": "HIVE",
-      "description": "fullstack bio-link platform with analytics, customization, and shareable profiles.",
+      "description": "Fullstack bio-link platform with analytics, customization, and shareable profiles.",
       "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
@@ -207,6 +217,7 @@
     "programmingLanguages": [
       "javascript",
       "typescript",
+      "java",
       "cplusplus"
     ],
     "frameworks": [
@@ -226,6 +237,7 @@
     ],
     "cloud": [
       "mongodb",
+      "postgresql",
       "mysql",
       "digitalocean",
       "oracle",
