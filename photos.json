@@ -106,7 +106,7 @@
         "iso": "32",
         "focalLength": "26mm"
       },
-      "tags": ["california", "ocean", "landscape"],
+      "tags": ["california", "la-jolla", "ocean", "landscape"],
       "description": "Dramatic sandstone rock formations create natural tidal pools along La Jolla's pristine coastline, where crystal-clear Pacific waters flow between ancient geological structures under California's endless blue sky.",
       "sizes": {
         "thumbnail": "tidal-pools-la-jolla-sandstone-formations-2024-320.webp",
@@ -119,15 +119,49 @@
       "width": 4032,
       "height": 3024,
       "views": 0
+    },
+    {
+      "slug": "cherry-wine-la-jolla-2024",
+      "title": "Cherry Wine",
+      "location": "La Jolla, San Diego, California",
+      "sublocation": "Point La Jolla",
+      "date": "2024-06-08",
+      "camera": "iPhone 15",
+      "lens": "iPhone 15 back main camera 26mm f/1.6",
+      "photographer": "David Heffler",
+      "producer": "David Heffler",
+      "settings": {
+        "aperture": "f/1.6",
+        "shutterSpeed": "1/722",
+        "iso": "32",
+        "focalLength": "26mm"
+      },
+      "tags": ["california", "la-jolla", "food"],
+      "description": "A bento set served oceanside at Point La Jolla — nigiri, futomaki, salad, gyoza, and miso.",
+      "sizes": {
+        "thumbnail": "cherry-wine-la-jolla-2024-320.webp",
+        "small": "cherry-wine-la-jolla-2024-640.webp",
+        "medium": "cherry-wine-la-jolla-2024-1280.webp",
+        "large": "cherry-wine-la-jolla-2024-1920.webp",
+        "full": "cherry-wine-la-jolla-2024-4032.webp"
+      },
+      "aspectRatio": 1.33,
+      "width": 4032,
+      "height": 3024,
+      "views": 0
     }
   ],
   "collections": [
     {
       "slug": "la-jolla",
       "title": "La Jolla",
-      "description": "Coastal scenes and landscapes from La Jolla, California",
+      "description": "Coastal scenes, food, and landscapes from La Jolla, California",
       "coverPhoto": "tidal-pools-la-jolla-sandstone-formations-2024",
-      "photos": ["seal-cove-la-jolla-san-diego-sea-lions-2024", "tidal-pools-la-jolla-sandstone-formations-2024"],
+      "photos": [
+        "seal-cove-la-jolla-san-diego-sea-lions-2024",
+        "tidal-pools-la-jolla-sandstone-formations-2024",
+        "cherry-wine-la-jolla-2024"
+      ],
       "date": "2024-07-10"
     },
     {
@@ -150,10 +184,12 @@
   "tagDictionary": [
     "california",
     "illinois",
+    "la-jolla",
     "wildlife",
     "ocean",
     "cityscape",
     "architecture",
-    "landscape"
+    "landscape",
+    "food"
   ]
 }
