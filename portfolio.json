@@ -150,21 +150,21 @@
     {
       "title": "Dystowned",
       "shortDescription": "Streetwear e-commerce with centralized product and inventory management; Stripe checkout.",
-      "technologies": ["TypeScript", "Next.js", "React", "Stripe", "MongoDB", "Vercel"],
+      "technologies": ["TypeScript", "Next.js", "React", "MDX", "Stripe", "MongoDB", "Vercel"],
       "link": "https://dystowned.com",
       "date": "Jul 2025 - Apr 2026"
     },
     {
       "title": "PaStore",
       "shortDescription": "Marketplace for professional audio equipment with admin panel, search, and SEO-optimized catalog.",
-      "technologies": ["TypeScript", "Next.js", "React", "MongoDB", "Vercel"],
+      "technologies": ["TypeScript", "Next.js", "React", "MDX", "MongoDB", "Vercel"],
       "link": "https://pastore.nl",
       "date": "Sep 2024 - Sep 2024"
     },
     {
       "title": "SchuttingMasters",
       "shortDescription": "Custom quoting system, review publication, and landing pages with project portfolio.",
-      "technologies": ["TypeScript", "React", "Next.js", "MongoDB", "S3/R2", "Vercel"],
+      "technologies": ["TypeScript", "React", "Next.js", "MDX", "MongoDB", "S3/R2", "Vercel"],
       "link": "https://schuttingmasters.nl",
       "date": "Sep 2024 - Oct 2024"
     }
@@ -173,30 +173,30 @@
     {
       "school": "Mt. San Jacinto College",
       "degree": "Associate of Science - AS, Mathematics",
-      "dates": "2024 - 2026",
+      "dates": "2024 - 2027",
       "expected": true
     },
     {
       "school": "Mt. San Jacinto College",
       "degree": "Associate of Science - AS, Computer Science",
-      "dates": "2024 - 2026",
+      "dates": "2024 - 2028",
       "expected": true
     }
   ],
   "projects": [
     {
-      "title": "NITROUS",
-      "description": "Open-source OSINT platform with Next.js/React/TailwindCSS frontend and Fastify backend.",
-      "technologies": ["TypeScript", "React", "Next.js", "Fastify", "Python"],
-      "demoLink": "https://nitrous.dvh.sh",
-      "sourceLink": "https://github.com/nitrous-oxi-de"
-    },
-    {
       "title": "HIVE",
-      "description": "Fullstack bio-link platform with analytics, customization, and shareable profiles.",
+      "description": "Production bio-link platform serving 1,500+ users; full-stack Next.js app with analytics dashboard, profile customization, and shareable public pages.",
       "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
+    },
+    {
+      "title": "Catppuccin (Raycast)",
+      "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official @raycast/extensions repo.",
+      "technologies": ["TypeScript", "React", "cplusplus"],
+      "demoLink": "https://catppuccin.dvh.sh",
+      "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
     },
     {
       "title": "slapshot.ts",
@@ -206,11 +206,11 @@
       "sourceLink": "https://github.com/dvhsh/slapshot.ts"
     },
     {
-      "title": "Catppuccin (Raycast)",
-      "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official @raycast/extensions repo.",
-      "technologies": ["TypeScript", "React", "cplusplus"],
-      "demoLink": "https://catppuccin.dvh.sh",
-      "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
+      "title": "NITROUS",
+      "description": "Open-source OSINT platform with Next.js/React/TailwindCSS frontend and Fastify backend.",
+      "technologies": ["TypeScript", "React", "Next.js", "Fastify", "Python"],
+      "demoLink": "https://nitrous.dvh.sh",
+      "sourceLink": "https://github.com/nitrous-oxi-de"
     }
   ],
   "skills": {
