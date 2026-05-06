@@ -175,6 +175,42 @@
       "width": 4032,
       "height": 3024,
       "views": 0
+    },
+    {
+      "slug": "huntington-canyon-overlook-utah-2023",
+      "title": "Huntington Canyon Overlook",
+      "location": "Huntington, Utah, USA",
+      "sublocation": "Huntington Canyon",
+      "date": "2023-03-18",
+      "camera": "iPhone 13",
+      "lens": "iPhone 13 back ultra wide camera 13mm f/2.4",
+      "photographer": "David Heffler",
+      "producer": "David Heffler",
+      "settings": {
+        "aperture": "f/2.4",
+        "shutterSpeed": "1/1815",
+        "iso": "32",
+        "focalLength": "14mm"
+      },
+      "tags": [
+        "utah",
+        "usa",
+        "landscape",
+        "canyon",
+        "desert"
+      ],
+      "description": "A sweeping overlook of Huntington Canyon's dramatic sandstone formations and high desert terrain, dusted with late winter snow beneath a deep blue Utah sky.",
+      "sizes": {
+        "thumbnail": "huntington-canyon-overlook-utah-2023-320.webp",
+        "small": "huntington-canyon-overlook-utah-2023-640.webp",
+        "medium": "huntington-canyon-overlook-utah-2023-1280.webp",
+        "large": "huntington-canyon-overlook-utah-2023-1920.webp",
+        "full": "huntington-canyon-overlook-utah-2023-4032.webp"
+      },
+      "aspectRatio": 1.33,
+      "width": 4032,
+      "height": 3024,
+      "views": 0
     }
   ],
   "collections": [
@@ -214,6 +250,7 @@
   "tagDictionary": [
     "california",
     "illinois",
+    "utah",
     "la-jolla",
     "usa",
     "wildlife",
@@ -221,6 +258,8 @@
     "cityscape",
     "architecture",
     "landscape",
+    "canyon",
+    "desert",
     "food"
   ]
 }
