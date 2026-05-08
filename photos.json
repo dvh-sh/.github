@@ -1,6 +1,42 @@
 {
   "photos": [
     {
+      "slug": "kingston-rhinecliff-bridge-hudson-rhinebeck-2025",
+      "title": "The Kingston-Rhinecliff Bridge Overlooking the Hudson on a Forbidding Day",
+      "location": "Rhinebeck, New York, USA",
+      "sublocation": "Kingston-Rhinecliff Bridge",
+      "date": "2025-09-05",
+      "camera": "iPhone 15",
+      "lens": "iPhone 15 back main camera 26mm f/1.6",
+      "photographer": "David Heffler",
+      "producer": "David Heffler",
+      "settings": {
+        "aperture": "f/1.6",
+        "shutterSpeed": "1/3115",
+        "iso": "32",
+        "focalLength": "58mm"
+      },
+      "tags": [
+        "new-york",
+        "usa",
+        "landscape",
+        "bridge",
+        "hudson-river"
+      ],
+      "description": "The Kingston-Rhinecliff Bridge stretches across the Hudson River beneath a dramatic forbidding sky, framed by the lush rolling fields and dense tree lines of Rhinebeck, New York.",
+      "sizes": {
+        "thumbnail": "kingston-rhinecliff-bridge-hudson-rhinebeck-2025-320.webp",
+        "small": "kingston-rhinecliff-bridge-hudson-rhinebeck-2025-640.webp",
+        "medium": "kingston-rhinecliff-bridge-hudson-rhinebeck-2025-1280.webp",
+        "large": "kingston-rhinecliff-bridge-hudson-rhinebeck-2025-1920.webp",
+        "full": "kingston-rhinecliff-bridge-hudson-rhinebeck-2025-3392.webp"
+      },
+      "aspectRatio": 1.33,
+      "width": 3392,
+      "height": 2544,
+      "views": 0
+    },
+    {
       "slug": "seal-cove-la-jolla-san-diego-sea-lions-2024",
       "title": "Sea Lions at Seal Cove",
       "location": "La Jolla, San Diego, California, USA",
@@ -251,6 +287,7 @@
     "california",
     "illinois",
     "utah",
+    "new-york",
     "la-jolla",
     "usa",
     "wildlife",
@@ -260,6 +297,8 @@
     "landscape",
     "canyon",
     "desert",
-    "food"
+    "food",
+    "bridge",
+    "hudson-river"
   ]
 }
