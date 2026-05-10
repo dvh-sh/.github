@@ -37,6 +37,42 @@
       "views": 0
     },
     {
+      "slug": "elliott-bay-pier-54-seattle-2024",
+      "title": "Elliott Bay from Pier 54",
+      "location": "Seattle, Washington, USA",
+      "sublocation": "Pier 54",
+      "date": "2024-06-24",
+      "camera": "iPhone 15",
+      "lens": "iPhone 15 back main camera 26mm f/1.6",
+      "photographer": "David Heffler",
+      "producer": "David Heffler",
+      "settings": {
+        "aperture": "f/1.6",
+        "shutterSpeed": "1/4630",
+        "iso": "32",
+        "focalLength": "67mm"
+      },
+      "tags": [
+        "washington",
+        "usa",
+        "seattle",
+        "ocean",
+        "landscape"
+      ],
+      "description": "Elliott Bay stretches wide beneath a dramatic summer sky filled with billowing cumulus clouds, viewed from Pier 54 on Seattle's historic waterfront.",
+      "sizes": {
+        "thumbnail": "elliott-bay-pier-54-seattle-2024-320.webp",
+        "small": "elliott-bay-pier-54-seattle-2024-640.webp",
+        "medium": "elliott-bay-pier-54-seattle-2024-1280.webp",
+        "large": "elliott-bay-pier-54-seattle-2024-1920.webp",
+        "full": "elliott-bay-pier-54-seattle-2024-4032.webp"
+      },
+      "aspectRatio": 1.33,
+      "width": 4032,
+      "height": 3024,
+      "views": 0
+    },
+    {
       "slug": "seal-cove-la-jolla-san-diego-sea-lions-2024",
       "title": "Sea Lions at Seal Cove",
       "location": "La Jolla, San Diego, California, USA",
@@ -283,22 +319,28 @@
       "date": "2022-10-13"
     }
   ],
-  "tagDictionary": [
-    "california",
-    "illinois",
-    "utah",
-    "new-york",
-    "la-jolla",
-    "usa",
-    "wildlife",
-    "ocean",
-    "cityscape",
-    "architecture",
-    "landscape",
-    "canyon",
-    "desert",
-    "food",
-    "bridge",
-    "hudson-river"
-  ]
+  "tagDictionary": {
+    "places": [
+      "usa",
+      "california",
+      "illinois",
+      "utah",
+      "new-york",
+      "washington",
+      "la-jolla",
+      "seattle"
+    ],
+    "subjects": [
+      "wildlife",
+      "ocean",
+      "cityscape",
+      "architecture",
+      "landscape",
+      "canyon",
+      "desert",
+      "food",
+      "bridge",
+      "hudson-river"
+    ]
+  }
 }
