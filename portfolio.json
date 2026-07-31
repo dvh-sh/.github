@@ -148,6 +148,13 @@
       "date": "May 2026 - May 2026"
     },
     {
+      "title": "Seed-to-Shelf Platform",
+      "shortDescription": "Full-suite supply-chain traceability platform for a private retail client (under NDA). Architected a dual-sided system — a consumer storefront with product-verification lookup and a partner-retailer portal — that traces every product across its full lifecycle: farm → seed → production → retailer → consumer. Ongoing, long-term engagement.",
+      "technologies": ["TypeScript", "Next.js", "React", "MongoDB"],
+      "link": "",
+      "date": "Jan 2026 - Present"
+    },
+    {
       "title": "Dystowned",
       "shortDescription": "Streetwear e-commerce with centralized product and inventory management; Stripe checkout.",
       "technologies": ["TypeScript", "Next.js", "React", "MDX", "Stripe", "MongoDB", "Vercel"],
