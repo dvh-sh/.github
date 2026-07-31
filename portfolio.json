@@ -167,6 +167,13 @@
       "technologies": ["TypeScript", "React", "Next.js", "MDX", "MongoDB", "S3/R2", "Vercel"],
       "link": "https://schuttingmasters.nl",
       "date": "Sep 2024 - Oct 2024"
+    },
+    {
+      "title": "Volt",
+      "shortDescription": "Custom JWT authentication and backend-for-frontend for the Volt platform (now defunct). Solo-architected and shipped the Node/Fastify API layer — implemented auth flows, token issuance and refresh, and hardened session handling — integrated with a separately-built frontend.",
+      "technologies": ["Fastify", "Node.js", "TypeScript", "JWT", "MongoDB"],
+      "link": "",
+      "date": "Jul 2024 - Jul 2024"
     }
   ],
   "education": [
