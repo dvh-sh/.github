@@ -148,11 +148,25 @@
       "date": "May 2026 - May 2026"
     },
     {
+      "title": "Esports Tournament Platform",
+      "shortDescription": "Full tournament-management platform plus companion Discord bot for a competitive-gaming client (under NDA). Architected a Turborepo monorepo — OAuth login, player and staff registration with automated seeding, idempotent webhook-driven crowdfunding, and a complete admin suite with audit logging. 30+ Discord slash commands drive staff ops, lookups, and moderation. Ongoing engagement.",
+      "technologies": ["TypeScript", "Next.js", "React", "MongoDB"],
+      "link": "",
+      "date": "Apr 2026 - Present"
+    },
+    {
       "title": "Seed-to-Shelf Platform",
       "shortDescription": "Full-suite supply-chain traceability platform for a private retail client (under NDA). Architected a dual-sided system — a consumer storefront with product-verification lookup and a partner-retailer portal — that traces every product across its full lifecycle: farm → seed → production → retailer → consumer. Ongoing, long-term engagement.",
       "technologies": ["TypeScript", "Next.js", "React", "MongoDB"],
       "link": "",
       "date": "Jan 2026 - Present"
+    },
+    {
+      "title": "VTuber Creator Site",
+      "shortDescription": "Brand and community site for a VTuber content creator (pre-debut, under NDA). Designed and built a statically-exported Next.js marketing site — animated landing with character lore, a stream-schedule board, a community tournaments/events hub, and social integrations. Deployed on Vercel.",
+      "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "Vercel"],
+      "link": "",
+      "date": "Oct 2025 - Present"
     },
     {
       "title": "Dystowned",
