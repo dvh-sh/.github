@@ -270,6 +270,10 @@
       "digitalocean",
       "oracle",
       "vercel"
+    ],
+    "aiTools": [
+      "claudecode",
+      "copilot"
     ]
   },
   "software": {
