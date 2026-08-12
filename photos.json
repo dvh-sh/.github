@@ -1,6 +1,45 @@
 {
   "photos": [
     {
+      "slug": "goodsmile-racing-miku-bmw-z4-anime-expo-2026",
+      "title": "Goodsmile Racing Hatsune Miku BMW Z4 GT3 at Anime Expo",
+      "location": "Los Angeles, California, USA",
+      "sublocation": "Anime Expo",
+      "date": "2026-07-05",
+      "camera": "Fujifilm X-M5",
+      "lens": "Viltrox AF 35mm f/1.7 XF",
+      "photographer": "David Heffler",
+      "producer": "David Heffler",
+      "settings": {
+        "aperture": "",
+        "shutterSpeed": "",
+        "iso": "",
+        "focalLength": "35mm"
+      },
+      "tags": [
+        "usa",
+        "california",
+        "los-angeles",
+        "automotive",
+        "motorsport",
+        "livery",
+        "hatsune-miku",
+        "anime"
+      ],
+      "description": "The Goodsmile Racing Hatsune Miku BMW Z4 GT3 sits outdoors at Anime Expo 2026, its Racing Miku livery — cyan, magenta, and white with the trademark flame graphics — wrapping the front three-quarter of the car. Sponsor decals (Gran Turismo, Michelin, Good Smile Company) crowd the bumper beneath the yellow-tinted headlights and the pink front splitter.",
+      "sizes": {
+        "thumbnail": "goodsmile-racing-miku-bmw-z4-anime-expo-2026-320.webp",
+        "small": "goodsmile-racing-miku-bmw-z4-anime-expo-2026-640.webp",
+        "medium": "goodsmile-racing-miku-bmw-z4-anime-expo-2026-1280.webp",
+        "large": "goodsmile-racing-miku-bmw-z4-anime-expo-2026-1920.webp",
+        "full": "goodsmile-racing-miku-bmw-z4-anime-expo-2026-6240.webp"
+      },
+      "aspectRatio": 0.67,
+      "width": 4160,
+      "height": 6240,
+      "views": 0
+    },
+    {
       "slug": "kingston-rhinecliff-bridge-hudson-rhinebeck-2025",
       "title": "The Kingston-Rhinecliff Bridge Overlooking the Hudson on a Forbidding Day",
       "location": "Rhinebeck, New York, USA",
@@ -287,6 +326,16 @@
   ],
   "collections": [
     {
+      "slug": "automotive",
+      "title": "Automotive",
+      "description": "Cars, liveries, and motorsport machines — starting with the Goodsmile Racing Hatsune Miku BMW Z4 GT3",
+      "coverPhoto": "goodsmile-racing-miku-bmw-z4-anime-expo-2026",
+      "photos": [
+        "goodsmile-racing-miku-bmw-z4-anime-expo-2026"
+      ],
+      "date": "2026-07-05"
+    },
+    {
       "slug": "la-jolla",
       "title": "La Jolla",
       "description": "Coastal scenes, food, and landscapes from La Jolla, California, USA",
@@ -328,7 +377,8 @@
       "new-york",
       "washington",
       "la-jolla",
-      "seattle"
+      "seattle",
+      "los-angeles"
     ],
     "subjects": [
       "wildlife",
@@ -340,7 +390,12 @@
       "desert",
       "food",
       "bridge",
-      "hudson-river"
+      "hudson-river",
+      "automotive",
+      "motorsport",
+      "livery",
+      "hatsune-miku",
+      "anime"
     ]
   }
 }
