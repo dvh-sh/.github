@@ -1,6 +1,43 @@
 {
   "photos": [
     {
+      "slug": "2013-mercedes-w204-c250-redandblues",
+      "title": "Red and Blues",
+      "location": "Murrieta, California, USA",
+      "sublocation": "",
+      "date": "2026-08-28",
+      "camera": "Fujifilm X-M5",
+      "lens": "Viltrox AF 35mm f/1.7 XF",
+      "photographer": "David Heffler",
+      "producer": "David Heffler",
+      "settings": {
+        "aperture": "f/1.7",
+        "shutterSpeed": "1/60",
+        "iso": "6400",
+        "focalLength": "35mm"
+      },
+      "tags": [
+        "usa",
+        "california",
+        "murrieta",
+        "automotive",
+        "mercedes-benz",
+        "night"
+      ],
+      "description": "The white 2013 Mercedes-Benz C250 (W204) at night, washed in red and blue light. Colored strobes throw magenta and cyan across the paint while the background drops to black. Shot wide open at f/1.7, ISO 6400, a little before 4 AM.",
+      "sizes": {
+        "thumbnail": "2013-mercedes-w204-c250-redandblues-320.webp",
+        "small": "2013-mercedes-w204-c250-redandblues-640.webp",
+        "medium": "2013-mercedes-w204-c250-redandblues-1280.webp",
+        "large": "2013-mercedes-w204-c250-redandblues-1920.webp",
+        "full": "2013-mercedes-w204-c250-redandblues-6264.webp"
+      },
+      "aspectRatio": 0.67,
+      "width": 4176,
+      "height": 6264,
+      "views": 0
+    },
+    {
       "slug": "lakeside-benz-lake-skinner-2026",
       "title": "Lakeside Benz",
       "location": "Winchester, California, USA",
@@ -57,6 +94,7 @@
         "california",
         "los-angeles",
         "automotive",
+        "bmw",
         "motorsport",
         "livery",
         "hatsune-miku",
@@ -368,9 +406,10 @@
       "coverPhoto": "goodsmile-racing-miku-bmw-z4-anime-expo-2026",
       "photos": [
         "goodsmile-racing-miku-bmw-z4-anime-expo-2026",
-        "lakeside-benz-lake-skinner-2026"
+        "lakeside-benz-lake-skinner-2026",
+        "2013-mercedes-w204-c250-redandblues"
       ],
-      "date": "2026-08-22"
+      "date": "2026-08-28"
     },
     {
       "slug": "la-jolla",
@@ -416,7 +455,8 @@
       "la-jolla",
       "seattle",
       "los-angeles",
-      "winchester"
+      "winchester",
+      "murrieta"
     ],
     "subjects": [
       "wildlife",
@@ -434,7 +474,9 @@
       "livery",
       "hatsune-miku",
       "anime",
-      "mercedes-benz"
+      "mercedes-benz",
+      "night",
+      "bmw"
     ]
   }
 }
