@@ -48,7 +48,22 @@
     "CDN",
     "CI/CD",
     "B2C",
-    "MCP"
+    "MCP",
+    "DRM",
+    "anti-tamper",
+    "obfuscation",
+    "watermarked",
+    "fingerprinting",
+    "identity provider",
+    "OAuth 2.1",
+    "JWT",
+    "gRPC",
+    "end-to-end encryption",
+    "zero-knowledge",
+    "Cloudflare Workers",
+    "reseller",
+    "RAG",
+    "marketing"
   ],
   "profile": {
     "name": "David Heffler",
@@ -74,6 +89,25 @@
         "Built a configurable rules engine with customer-defined conditions and automated enforcement actions (block, challenge, rate-limit, webhook).",
         "Developed an open source SDK (@usevane/core, @usevane/next, @usevane/cli, @usevane/mcp) for 30-second installs via CLI scaffolding.",
         "Implemented AI-operated interfaces: dashboard copilot, MCP server for editor integration, and natural language rule authoring."
+      ]
+    },
+    {
+      "title": "Founder & Lead Engineer",
+      "company": "CERBERUS",
+      "type": "Self-employed",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "location": "United States · Remote",
+      "description": "A custom DRM and anti-tamper system, plus a consultancy that builds and runs everything around it. Protection is the core. Identity, payments, analytics, support, and marketing grew up around it because the products we protect needed them.",
+      "bullets": [
+        "Built the protection pipeline: layered bytecode obfuscation, native compilation of sensitive code paths, per-user watermarked builds, and runtime anti-debug and integrity checks.",
+        "Designed licensing and device trust from scratch. Fuzzy hardware fingerprinting with per-device slots replaced brittle HWID locks, and a risk scoring engine weighs payment, identity, velocity, and device signals.",
+        "Run our own identity provider (OAuth 2.1, JWT/JWKS issuer) with hardware-bound sessions and keypair grants, shared by every product on the platform.",
+        "Moved client traffic onto a Rust gRPC transport with end-to-end encryption, and shipped a zero-knowledge vault where the server only ever holds ciphertext.",
+        "Shipped the commerce backend: Stripe and crypto checkout, entitlements, license keys, bundle and upgrade pricing, and a credit-based reseller network that settles its own balances.",
+        "Built first-party analytics on Cloudflare Workers with 45 event types and no third-party trackers. It feeds funnel, retention, and revenue-by-channel reporting.",
+        "Handle marketing end to end: positioning and brand voice, a creator partner program with fit scoring and referral payouts, an SEO content pipeline, and GDPR and CCPA compliance pages.",
+        "Added an AI operator layer: an MCP server for staff tooling, a RAG support assistant over our knowledge base, and an LLM moderation service."
       ]
     },
     {
@@ -148,10 +182,10 @@
       "date": "May 2026 - May 2026"
     },
     {
-      "title": "Esports Tournament Platform",
-      "shortDescription": "Full tournament-management platform plus companion Discord bot for a competitive-gaming client (under NDA). Architected a Turborepo monorepo — OAuth login, player and staff registration with automated seeding, idempotent webhook-driven crowdfunding, and a complete admin suite with audit logging. 30+ Discord slash commands drive staff ops, lookups, and moderation. Ongoing engagement.",
+      "title": "Evergreen Cup",
+      "shortDescription": "Tournament platform and Discord bot for Evergreen Cup, an osu! tournament that ends in an in-person LAN finals near Seattle. One Turborepo monorepo runs osu! OAuth login, player and staff registration with automated seeding, idempotent webhook-driven crowdfunding, and a full admin suite with audit logging. The LAN signup handles room allocation, roommate pair codes, and a PII purge after the event. 30+ Discord slash commands cover staff ops, lookups, and moderation. Off the keyboard, I'm on event staff for the Oct 2026 LAN finals and shooting it as the official photographer.",
       "technologies": ["TypeScript", "Next.js", "React", "MongoDB"],
-      "link": "",
+      "link": "https://evergreencup.org",
       "date": "Apr 2026 - Present"
     },
     {
@@ -207,7 +241,7 @@
     {
       "school": "Mt. San Jacinto College",
       "degree": "Associate of Science - AS, Computer Science",
-      "dates": "2024 - 2028",
+      "dates": "2024 - 2027",
       "expected": true
     }
   ],
