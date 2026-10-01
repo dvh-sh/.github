@@ -63,11 +63,22 @@
     "Cloudflare Workers",
     "reseller",
     "RAG",
-    "marketing"
+    "marketing",
+    "npm",
+    "trusted publishing",
+    "provenance",
+    "CI",
+    "GitHub Actions",
+    "OAuth",
+    "open source",
+    "mappool",
+    "tournament",
+    "prerender",
+    "JSON-LD"
   ],
   "profile": {
     "name": "David Heffler",
-    "title": "Software Engineer | Mathematics & CS Student @ MSJC",
+    "title": "Full-Stack Web Developer | Mathematics Student @ MSJC",
     "email": "david@dvh.sh",
     "website": "dvh.sh",
     "github": "github.com/dvhsh",
@@ -237,15 +248,25 @@
       "degree": "Associate of Science - AS, Mathematics",
       "dates": "2024 - 2027",
       "expected": true
-    },
-    {
-      "school": "Mt. San Jacinto College",
-      "degree": "Associate of Science - AS, Computer Science",
-      "dates": "2024 - 2027",
-      "expected": true
     }
   ],
   "projects": [
+    {
+      "title": "haruhime.moe",
+      "featured": true,
+      "description": "Suite of web apps for osu! tournament production: hosts build mappools, ship map downloads to players, and write event pages with the same set of tools. Live at haruhime.moe with packs, pools (beta) and bb; sheets is next.",
+      "highlights": [
+        "packs: paste beatmap IDs and get the whole mappool as one zip or torrent; a short pack key rebuilds the same pool for every player and referee.",
+        "pools: osu! OAuth sign-in, search across every ranked map with mods applied to star rating, AR and OD, co-editors, past tournament pools for reference, and a content-rules check for officially supported tournaments.",
+        "bb: osu! BBCode editor with a live preview at osu!'s exact page widths, shared templates and a collab banner (imagemap) maker for tournament forum posts.",
+        "Split shared code into 8 open source npm packages (@haruhimemoe/ui, next-kit, osu, pool, bbcode, brand, hinai, compliance) across 14 public repos, so each app stays small and fixes land everywhere with a version bump.",
+        "Every package publishes from GitHub Actions through npm trusted publishing with provenance: a GitHub release triggers the workflow, no long-lived npm tokens exist.",
+        "CI runs Biome, TypeScript and Vitest on every repo (1,000+ tests in the pool library alone); apps prerender static pages and generate SEO metadata, sitemaps, JSON-LD and llms.txt from one shared kit."
+      ],
+      "technologies": ["typescript", "nextjs", "react", "tailwindcss", "bun", "mongodb", "vitest", "githubactions", "npm", "vercel"],
+      "demoLink": "https://www.haruhime.moe",
+      "sourceLink": "https://github.com/haruhimemoe"
+    },
     {
       "title": "HIVE",
       "description": "Production bio-link platform serving 1,500+ users; full-stack Next.js app with analytics dashboard, profile customization, and shareable public pages.",
@@ -285,6 +306,7 @@
     "frameworks": [
       "react",
       "nextjs",
+      "tailwindcss",
       "fastify",
       "express",
       "spring"
@@ -295,7 +317,11 @@
       "nginx",
       "docker",
       "coolify",
-      "letsencrypt"
+      "letsencrypt",
+      "bun",
+      "githubactions",
+      "npm",
+      "vitest"
     ],
     "cloud": [
       "mongodb",
