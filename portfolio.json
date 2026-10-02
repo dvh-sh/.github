@@ -262,7 +262,7 @@
         "Split shared code into 8 open source npm packages across 14 public repos (UI, osu! API client, pool logic, Next.js plumbing).",
         "Set up GitHub Actions CI (Biome, TypeScript, Vitest) and npm trusted publishing with provenance, so releases ship from GitHub with no stored npm tokens."
       ],
-      "technologies": ["typescript", "nextjs", "react", "tailwindcss", "bun", "mongodb", "vitest", "githubactions", "npm", "vercel"],
+      "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "Bun", "MongoDB", "Vitest", "GitHub Actions", "npm", "Vercel"],
       "demoLink": "https://www.haruhime.moe",
       "sourceLink": "https://github.com/haruhimemoe"
     },
