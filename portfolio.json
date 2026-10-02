@@ -194,7 +194,7 @@
     },
     {
       "title": "Evergreen Cup",
-      "shortDescription": "Tournament platform and Discord bot for Evergreen Cup, an osu! tournament that ends in an in-person LAN finals near Seattle. One Turborepo monorepo runs osu! OAuth login, player and staff registration with automated seeding, idempotent webhook-driven crowdfunding, and a full admin suite with audit logging. The LAN signup handles room allocation, roommate pair codes, and a PII purge after the event. 30+ Discord slash commands cover staff ops, lookups, and moderation. Off the keyboard, I'm on event staff for the Oct 2026 LAN finals and shooting it as the official photographer.",
+      "shortDescription": "Tournament platform and Discord bot for Evergreen Cup, an osu! tournament with an in-person LAN finals near Seattle. One Turborepo monorepo runs osu! OAuth login, registration with automated seeding, crowdfunding, LAN room signup and an admin suite with audit logging.",
       "technologies": ["TypeScript", "Next.js", "React", "MongoDB"],
       "link": "https://evergreencup.org",
       "date": "Apr 2026 - Present"
