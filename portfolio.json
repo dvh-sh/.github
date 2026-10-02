@@ -128,7 +128,7 @@
       "startDate": "2024-03",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "Founded a consultancy delivering fullstack, production-grade systems for international clients with fast iterations and reliable operations.",
+      "description": "Founded a consultancy delivering fullstack, production-grade systems for 10+ international clients with fast iterations and reliable operations.",
       "bullets": [
         "Architected and shipped e-commerce and B2C platforms using TypeScript, Next.js, and MongoDB.",
         "Implemented CI/CD with Docker, Vercel, and Coolify; standardized deploy workflows, rollbacks, and environment parity.",
