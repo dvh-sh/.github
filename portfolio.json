@@ -75,6 +75,7 @@
     "tournament",
     "prerender",
     "JSON-LD",
+    "AI",
     "revenue",
     "client",
     "clients",
@@ -246,7 +247,7 @@
     {
       "title": "VANE",
       "featured": true,
-      "description": "Application-layer bot intelligence that detects autonomous behavior, scores entities over time, and responds automatically.",
+      "description": "AI-native, application-layer bot intelligence that detects autonomous behavior, scores entities over time, and responds automatically.",
       "highlights": [
         "Designed and shipped a real-time signal ingestion pipeline using Redis Streams with in-process consumer workers.",
         "Built a configurable rules engine with customer-defined conditions and automated enforcement actions (block, challenge, rate-limit, webhook).",
