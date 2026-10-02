@@ -257,14 +257,14 @@
     },
     {
       "title": "HIVE",
-      "description": "Production bio-link platform serving 1,500+ users; full-stack Next.js app with analytics dashboard, profile customization, and shareable public pages.",
+      "description": "Executive engineer on a production bio-link platform with 1,500+ users, founded by Ruben Ooft; built nearly all of the backend.",
       "highlights": [
-        "Next.js 16 and MongoDB app with 47 API routes, BetterAuth (email, Google and Discord OAuth) and Cloudflare R2 media storage.",
-        "Subscriptions through Stripe and crypto payments (NOWPayments) with webhook handling and redeemable codes.",
-        "Profile analytics for views, clicks, referrers and sessions; live Spotify and Discord presence widgets; embeds for YouTube, SoundCloud, X and more.",
-        "Rate limiting, AI content moderation, GDPR data export and deletion, and CI with Vitest and Playwright tests, Gitleaks secret scanning and Semgrep."
+        "Built the API layer: 47 Next.js route handlers on MongoDB, with BetterAuth (email, Google and Discord OAuth) and Cloudflare R2 media storage.",
+        "Integrated subscriptions through Stripe and crypto payments (NOWPayments) with webhook handling and redeemable codes.",
+        "Built profile analytics (views, clicks, referrers, sessions) and the Spotify and Discord presence integrations.",
+        "Added rate limiting, AI content moderation, GDPR data export and deletion, and CI with Vitest and Playwright tests, Gitleaks secret scanning and Semgrep."
       ],
-      "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "MongoDB"],
+      "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
     },
