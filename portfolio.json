@@ -94,7 +94,7 @@
       "startDate": "2026-03",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "Building application-layer bot intelligence — detects autonomous behavior, scores entities over time, and responds automatically.",
+      "description": "Building application-layer bot intelligence that detects autonomous behavior, scores entities over time, and responds automatically.",
       "bullets": [
         "Designed and shipped a real-time signal ingestion pipeline using Redis Streams with in-process consumer workers.",
         "Built a configurable rules engine with customer-defined conditions and automated enforcement actions (block, challenge, rate-limit, webhook).",
@@ -201,14 +201,14 @@
     },
     {
       "title": "Seed-to-Shelf Platform",
-      "shortDescription": "Full-suite supply-chain traceability platform for a private retail client (under NDA). Architected a dual-sided system — a consumer storefront with product-verification lookup and a partner-retailer portal — that traces every product across its full lifecycle: farm → seed → production → retailer → consumer. Ongoing, long-term engagement.",
+      "shortDescription": "Full-suite supply-chain traceability platform for a private retail client (under NDA). Architected a dual-sided system (a consumer storefront with product-verification lookup and a partner-retailer portal) that traces every product from farm and seed through production and retail to the consumer. Ongoing, long-term engagement.",
       "technologies": ["TypeScript", "Next.js", "React", "MongoDB"],
       "link": "",
       "date": "Jan 2026 - Present"
     },
     {
       "title": "VTuber Creator Site",
-      "shortDescription": "Brand and community site for a VTuber content creator (pre-debut, under NDA). Designed and built a statically-exported Next.js marketing site — animated landing with character lore, a stream-schedule board, a community tournaments/events hub, and social integrations. Deployed on Vercel.",
+      "shortDescription": "Brand and community site for a VTuber content creator (pre-debut, under NDA). Designed and built a statically-exported Next.js marketing site: animated landing with character lore, a stream-schedule board, a community tournaments/events hub, and social integrations. Deployed on Vercel.",
       "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "Vercel"],
       "link": "",
       "date": "Oct 2025 - Present"
@@ -236,7 +236,7 @@
     },
     {
       "title": "Volt",
-      "shortDescription": "Custom JWT authentication and backend-for-frontend for the Volt platform (now defunct). Solo-architected and shipped the Node/Fastify API layer — implemented auth flows, token issuance and refresh, and hardened session handling — integrated with a separately-built frontend.",
+      "shortDescription": "Custom JWT authentication and backend-for-frontend for the Volt platform (now defunct). Solo-architected and shipped the Node/Fastify API layer, with auth flows, token issuance and refresh, and hardened session handling, integrated with a separately-built frontend.",
       "technologies": ["Fastify", "Node.js", "TypeScript", "JWT", "MongoDB"],
       "link": "",
       "date": "Jul 2024 - Jul 2024"
