@@ -96,7 +96,8 @@
     "website": "dvh.sh",
     "github": "github.com/dvhsh",
     "linkedin": "linkedin.com/in/dvhsh",
-    "location": "Los Angeles Metropolitan Area"
+    "location": "Los Angeles Metropolitan Area",
+    "headline": "Software Architecture | Distributed Systems | Cybersecurity | Agentic AI Workflows"
   },
   "about": "Fullstack software engineer with 4+ years of professional experience, currently balancing entrepreneurship with academics. Outside of work and school, I enjoy photography, hiking, chess, Tetris, rhythm games, and maintaining my cactus garden.",
   "experience": [
@@ -107,7 +108,7 @@
       "startDate": "2025-04",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "A DRM and anti-tamper platform serving thousands of users across its tenants, with five-figure revenue. Protection is the core. Identity, payments, analytics, support, and marketing grew up around it because the products we protect needed them.",
+      "description": "A DRM and anti-tamper platform serving thousands of users across its tenants, with $15,000+ in revenue. Protection is the core. Identity, payments, analytics, support, and marketing grew up around it because the products we protect needed them.",
       "bullets": [
         "Built the protection pipeline: layered bytecode obfuscation, native compilation of sensitive code paths, per-user watermarked builds, and runtime anti-debug and integrity checks.",
         "Designed licensing and device trust from scratch. Fuzzy hardware fingerprinting with per-device slots replaced brittle HWID locks, and a risk scoring engine weighs payment, identity, velocity, and device signals.",
@@ -122,11 +123,12 @@
     {
       "title": "Founder & Technical Consultant",
       "company": "Haruhime Holdings",
+      "clientWork": true,
       "type": "Self-employed",
       "startDate": "2024-03",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "Founded a web development consultancy with 10+ international clients and five-figure revenue, delivering fullstack, production-grade systems with fast iterations and reliable operations.",
+      "description": "Founded a web development consultancy with 10+ international clients and $20,000+ in revenue, delivering fullstack, production-grade systems with fast iterations and reliable operations.",
       "bullets": [
         "Architected and shipped e-commerce and B2C platforms using TypeScript, Next.js, and MongoDB.",
         "Implemented CI/CD with Docker, Vercel, and Coolify; standardized deploy workflows, rollbacks, and environment parity.",
@@ -339,8 +341,10 @@
       "vercel"
     ],
     "aiTools": [
+      "claude",
       "claudecode",
-      "copilot"
+      "copilot",
+      "workersai"
     ]
   },
   "software": {
