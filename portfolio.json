@@ -88,21 +88,6 @@
   "about": "Fullstack software engineer with 4+ years of professional experience, currently balancing entrepreneurship with academics. Outside of work and school, I enjoy photography, hiking, chess, Tetris, rhythm games, and maintaining my cactus garden.",
   "experience": [
     {
-      "title": "Founder",
-      "company": "VANE",
-      "type": "Self-employed",
-      "startDate": "2026-03",
-      "endDate": "Present",
-      "location": "United States · Remote",
-      "description": "Building application-layer bot intelligence that detects autonomous behavior, scores entities over time, and responds automatically.",
-      "bullets": [
-        "Designed and shipped a real-time signal ingestion pipeline using Redis Streams with in-process consumer workers.",
-        "Built a configurable rules engine with customer-defined conditions and automated enforcement actions (block, challenge, rate-limit, webhook).",
-        "Developed an open source SDK (@usevane/core, @usevane/next, @usevane/cli, @usevane/mcp) for 30-second installs via CLI scaffolding.",
-        "Implemented AI-operated interfaces: dashboard copilot, MCP server for editor integration, and natural language rule authoring."
-      ]
-    },
-    {
       "title": "Founder & Lead Engineer",
       "company": "CERBERUS",
       "type": "Self-employed",
@@ -167,14 +152,6 @@
     }
   ],
   "positions": [
-    {
-      "title": "VANE",
-      "shortDescription": "Application-layer bot intelligence. Detects autonomous behavior, scores entities over time, and responds automatically.",
-      "technologies": ["typescript", "nextjs", "mongodb", "redis", "bun"],
-      "link": "https://vane.moe",
-      "date": "Mar 2026 - Present",
-      "positionTitle": "Founder"
-    },
     {
       "title": "Haruhime Holdings",
       "shortDescription": "Consultancy delivering fullstack software solutions, deployment pipelines, and ongoing operations.",
@@ -252,9 +229,21 @@
   ],
   "projects": [
     {
-      "title": "haruhime.moe",
+      "title": "VANE",
       "featured": true,
-      "description": "Web tools for running osu! tournaments: packs (mappool downloads), pools (mappool building) and bb (BBCode editor for event pages).",
+      "description": "Application-layer bot intelligence that detects autonomous behavior, scores entities over time, and responds automatically.",
+      "highlights": [
+        "Designed and shipped a real-time signal ingestion pipeline using Redis Streams with in-process consumer workers.",
+        "Built a configurable rules engine with customer-defined conditions and automated enforcement actions (block, challenge, rate-limit, webhook).",
+        "Developed an open source SDK (@usevane/core, @usevane/next, @usevane/cli, @usevane/mcp) for 30-second installs via CLI scaffolding.",
+        "Implemented AI-operated interfaces: dashboard copilot, MCP server for editor integration, and natural language rule authoring."
+      ],
+      "technologies": ["TypeScript", "Next.js", "MongoDB", "Redis", "Bun"],
+      "demoLink": "https://vane.moe"
+    },
+    {
+      "title": "haruhime.moe",
+      "description": "Web tools for creating and running osu! tournament events, built on open source libraries and data.",
       "highlights": [
         "Built packs to bundle a mappool into one zip or torrent, keyed by a short code that rebuilds the same pool for every player.",
         "Built pools with osu! OAuth, co-editing, a map search that applies mod effects to star rating, AR and OD, and a check against the official tournament content rules. Similar-map suggestions use precomputed embeddings from BoBERT, an open source (MIT) model by another developer.",
