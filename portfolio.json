@@ -74,7 +74,20 @@
     "mappool",
     "tournament",
     "prerender",
-    "JSON-LD"
+    "JSON-LD",
+    "revenue",
+    "client",
+    "clients",
+    "security",
+    "design",
+    "admin",
+    "system",
+    "systems",
+    "autonomous",
+    "platform",
+    "platforms",
+    "user",
+    "users"
   ],
   "profile": {
     "name": "David Heffler",
