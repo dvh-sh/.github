@@ -258,14 +258,25 @@
     {
       "title": "HIVE",
       "description": "Production bio-link platform serving 1,500+ users; full-stack Next.js app with analytics dashboard, profile customization, and shareable public pages.",
-      "technologies": ["TypeScript", "Next.js", "MongoDB"],
+      "highlights": [
+        "Next.js 16 and MongoDB app with 47 API routes, BetterAuth (email, Google and Discord OAuth) and Cloudflare R2 media storage.",
+        "Subscriptions through Stripe and crypto payments (NOWPayments) with webhook handling and redeemable codes.",
+        "Profile analytics for views, clicks, referrers and sessions; live Spotify and Discord presence widgets; embeds for YouTube, SoundCloud, X and more.",
+        "Rate limiting, AI content moderation, GDPR data export and deletion, and CI with Vitest and Playwright tests, Gitleaks secret scanning and Semgrep."
+      ],
+      "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
     },
     {
       "title": "NITROUS",
-      "description": "Open-source OSINT platform with Next.js/React/TailwindCSS frontend and Fastify backend.",
-      "technologies": ["TypeScript", "React", "Next.js", "Fastify", "Python"],
+      "description": "Open-source OSINT platform: a Fastify REST API with 17 lookup modules across username, email, domain, phone and IP, plus a Next.js search frontend.",
+      "highlights": [
+        "Plugin-style module architecture: each lookup extends one base class and loads automatically, and a single request can fan out across a whole category.",
+        "Documented the API with OpenAPI, and secured it with Helmet, a CORS allowlist and per-environment rate limits.",
+        "Published a typed TypeScript SDK (nitrous.ts) on npm and a Raycast extension on top of the API."
+      ],
+      "technologies": ["TypeScript", "Next.js", "React", "Fastify", "Docker"],
       "demoLink": "https://nitrous.dvh.sh",
       "sourceLink": "https://github.com/nitrous-oxi-de"
     },
@@ -276,14 +287,6 @@
       "technologies": ["TypeScript", "React", "cplusplus"],
       "demoLink": "https://catppuccin.dvh.sh",
       "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
-    },
-    {
-      "title": "slapshot.ts",
-      "resume": false,
-      "description": "Unofficial 'Slapshot: Rebound' API wrapper with TypeScript typings and Axios client.",
-      "technologies": ["TypeScript", "Axios"],
-      "demoLink": "https://slapshot.js.org",
-      "sourceLink": "https://github.com/dvhsh/slapshot.ts"
     }
   ],
   "skills": {
