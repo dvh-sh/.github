@@ -1,43 +1,6 @@
 {
   "photos": [
     {
-      "slug": "2013-mercedes-w204-c250-redandblues",
-      "title": "Red and Blues",
-      "location": "Murrieta, California, USA",
-      "sublocation": "",
-      "date": "2026-08-28",
-      "camera": "Fujifilm X-M5",
-      "lens": "Viltrox AF 35mm f/1.7 XF",
-      "photographer": "David Heffler",
-      "producer": "David Heffler",
-      "settings": {
-        "aperture": "f/1.7",
-        "shutterSpeed": "1/60",
-        "iso": "6400",
-        "focalLength": "35mm"
-      },
-      "tags": [
-        "usa",
-        "california",
-        "murrieta",
-        "automotive",
-        "mercedes-benz",
-        "night"
-      ],
-      "description": "The white 2013 Mercedes-Benz C250 (W204) at night, washed in red and blue light. Colored strobes throw magenta and cyan across the paint while the background drops to black. Shot wide open at f/1.7, ISO 6400, a little before 4 AM.",
-      "sizes": {
-        "thumbnail": "2013-mercedes-w204-c250-redandblues-320.webp",
-        "small": "2013-mercedes-w204-c250-redandblues-640.webp",
-        "medium": "2013-mercedes-w204-c250-redandblues-1280.webp",
-        "large": "2013-mercedes-w204-c250-redandblues-1920.webp",
-        "full": "2013-mercedes-w204-c250-redandblues-6264.webp"
-      },
-      "aspectRatio": 0.67,
-      "width": 4176,
-      "height": 6264,
-      "views": 0
-    },
-    {
       "slug": "lakeside-benz-lake-skinner-2026",
       "title": "Lakeside Benz",
       "location": "Winchester, California, USA",
@@ -222,40 +185,6 @@
       "views": 0
     },
     {
-      "slug": "a-valley-of-snails-pauma-valley-2024",
-      "title": "A Valley of Snails",
-      "location": "Pauma Valley, San Diego County, California, USA",
-      "sublocation": "Pauma Valley",
-      "date": "2024-06-03",
-      "camera": "iPhone 15",
-      "lens": "iPhone 15 back dual wide camera 5.96mm f/1.6",
-      "photographer": "David Heffler",
-      "producer": "David Heffler",
-      "settings": {
-        "aperture": "f/1.6",
-        "shutterSpeed": "1/24",
-        "iso": "400",
-        "focalLength": "6mm"
-      },
-      "tags": [
-        "california",
-        "usa",
-        "wildlife"
-      ],
-      "description": "A trio of snails, held within a human's hand.",
-      "sizes": {
-        "thumbnail": "a-valley-of-snails-pauma-valley-2024-320.webp",
-        "small": "a-valley-of-snails-pauma-valley-2024-640.webp",
-        "medium": "a-valley-of-snails-pauma-valley-2024-1280.webp",
-        "large": "a-valley-of-snails-pauma-valley-2024-1920.webp",
-        "full": "a-valley-of-snails-pauma-valley-2024-4032.webp"
-      },
-      "aspectRatio": 1.33,
-      "width": 4032,
-      "height": 3024,
-      "views": 0
-    },
-    {
       "slug": "concrete-river-chicago-2022",
       "title": "Concrete River",
       "location": "Chicago, Illinois, USA",
@@ -360,42 +289,6 @@
       "width": 4032,
       "height": 3024,
       "views": 0
-    },
-    {
-      "slug": "huntington-canyon-overlook-utah-2023",
-      "title": "Huntington Canyon Overlook",
-      "location": "Huntington, Utah, USA",
-      "sublocation": "Huntington Canyon",
-      "date": "2023-03-18",
-      "camera": "iPhone 13",
-      "lens": "iPhone 13 back ultra wide camera 13mm f/2.4",
-      "photographer": "David Heffler",
-      "producer": "David Heffler",
-      "settings": {
-        "aperture": "f/2.4",
-        "shutterSpeed": "1/1815",
-        "iso": "32",
-        "focalLength": "14mm"
-      },
-      "tags": [
-        "utah",
-        "usa",
-        "landscape",
-        "canyon",
-        "desert"
-      ],
-      "description": "An overlook of Huntington Canyon, Utah — sandstone and high desert with late-winter snow.",
-      "sizes": {
-        "thumbnail": "huntington-canyon-overlook-utah-2023-320.webp",
-        "small": "huntington-canyon-overlook-utah-2023-640.webp",
-        "medium": "huntington-canyon-overlook-utah-2023-1280.webp",
-        "large": "huntington-canyon-overlook-utah-2023-1920.webp",
-        "full": "huntington-canyon-overlook-utah-2023-4032.webp"
-      },
-      "aspectRatio": 1.33,
-      "width": 4032,
-      "height": 3024,
-      "views": 0
     }
   ],
   "collections": [
@@ -406,8 +299,7 @@
       "coverPhoto": "goodsmile-racing-miku-bmw-z4-anime-expo-2026",
       "photos": [
         "goodsmile-racing-miku-bmw-z4-anime-expo-2026",
-        "lakeside-benz-lake-skinner-2026",
-        "2013-mercedes-w204-c250-redandblues"
+        "lakeside-benz-lake-skinner-2026"
       ],
       "date": "2026-08-28"
     },
@@ -422,16 +314,6 @@
         "cherry-wine-la-jolla-2024"
       ],
       "date": "2024-07-10"
-    },
-    {
-      "slug": "pauma-valley-2024",
-      "title": "Pauma Valley",
-      "description": "Scenes from Pauma Valley in northern San Diego County, California, USA.",
-      "coverPhoto": "a-valley-of-snails-pauma-valley-2024",
-      "photos": [
-        "a-valley-of-snails-pauma-valley-2024"
-      ],
-      "date": "2024-06-03"
     },
     {
       "slug": "chicago-collection",
