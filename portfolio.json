@@ -94,7 +94,7 @@
       "startDate": "2025-04",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "A custom DRM and anti-tamper system, plus a consultancy that builds and runs everything around it. Protection is the core. Identity, payments, analytics, support, and marketing grew up around it because the products we protect needed them.",
+      "description": "A DRM and anti-tamper platform serving thousands of users across its tenants, with five-figure revenue. Protection is the core. Identity, payments, analytics, support, and marketing grew up around it because the products we protect needed them.",
       "bullets": [
         "Built the protection pipeline: layered bytecode obfuscation, native compilation of sensitive code paths, per-user watermarked builds, and runtime anti-debug and integrity checks.",
         "Designed licensing and device trust from scratch. Fuzzy hardware fingerprinting with per-device slots replaced brittle HWID locks, and a risk scoring engine weighs payment, identity, velocity, and device signals.",
@@ -113,7 +113,7 @@
       "startDate": "2024-03",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "Founded a consultancy delivering fullstack, production-grade systems for 10+ international clients with fast iterations and reliable operations.",
+      "description": "Founded a web development consultancy with 10+ international clients and five-figure revenue, delivering fullstack, production-grade systems with fast iterations and reliable operations.",
       "bullets": [
         "Architected and shipped e-commerce and B2C platforms using TypeScript, Next.js, and MongoDB.",
         "Implemented CI/CD with Docker, Vercel, and Coolify; standardized deploy workflows, rollbacks, and environment parity.",
@@ -268,6 +268,22 @@
       "technologies": ["TypeScript", "React", "Next.js", "Fastify", "Python"],
       "demoLink": "https://nitrous.dvh.sh",
       "sourceLink": "https://github.com/nitrous-oxi-de"
+    },
+    {
+      "title": "Catppuccin (Raycast)",
+      "resume": false,
+      "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official @raycast/extensions repo.",
+      "technologies": ["TypeScript", "React", "cplusplus"],
+      "demoLink": "https://catppuccin.dvh.sh",
+      "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
+    },
+    {
+      "title": "slapshot.ts",
+      "resume": false,
+      "description": "Unofficial 'Slapshot: Rebound' API wrapper with TypeScript typings and Axios client.",
+      "technologies": ["TypeScript", "Axios"],
+      "demoLink": "https://slapshot.js.org",
+      "sourceLink": "https://github.com/dvhsh/slapshot.ts"
     }
   ],
   "skills": {
