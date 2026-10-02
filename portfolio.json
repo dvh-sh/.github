@@ -235,7 +235,7 @@
       "highlights": [
         "Designed and shipped a real-time signal ingestion pipeline using Redis Streams with in-process consumer workers.",
         "Built a configurable rules engine with customer-defined conditions and automated enforcement actions (block, challenge, rate-limit, webhook).",
-        "Developed an open source SDK (@usevane/core, @usevane/next, @usevane/cli, @usevane/mcp) for 30-second installs via CLI scaffolding.",
+        "Developed a feature-rich SDK (@usevane/core, @usevane/next, @usevane/cli, @usevane/mcp) for 30-second installs via CLI scaffolding.",
         "Implemented AI-operated interfaces: dashboard copilot, MCP server for editor integration, and natural language rule authoring."
       ],
       "technologies": ["TypeScript", "Next.js", "MongoDB", "Redis", "Bun"],
