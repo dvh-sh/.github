@@ -270,6 +270,7 @@
     },
     {
       "title": "NITROUS",
+      "shortResume": false,
       "description": "Open-source OSINT platform: a Fastify REST API with 17 lookup modules across username, email, domain, phone and IP, plus a Next.js search frontend.",
       "highlights": [
         "Plugin-style module architecture: each lookup extends one base class and loads automatically, and a single request can fan out across a whole category.",
