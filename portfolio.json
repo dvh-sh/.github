@@ -254,14 +254,13 @@
     {
       "title": "haruhime.moe",
       "featured": true,
-      "description": "Suite of web apps for osu! tournament production: hosts build mappools, ship map downloads to players, and write event pages with the same set of tools. Live at haruhime.moe with packs, pools (beta) and bb; sheets is next.",
+      "description": "Web tools for running osu! tournaments: packs (mappool downloads), pools (mappool building) and bb (BBCode editor for event pages).",
       "highlights": [
-        "packs: paste beatmap IDs and get the whole mappool as one zip or torrent; a short pack key rebuilds the same pool for every player and referee.",
-        "pools: osu! OAuth sign-in, search across every ranked map with mods applied to star rating, AR and OD, co-editors, past tournament pools for reference, and a content-rules check for officially supported tournaments.",
-        "bb: osu! BBCode editor with a live preview at osu!'s exact page widths, shared templates and a collab banner (imagemap) maker for tournament forum posts.",
-        "Split shared code into 8 open source npm packages (@haruhimemoe/ui, next-kit, osu, pool, bbcode, brand, hinai, compliance) across 14 public repos, so each app stays small and fixes land everywhere with a version bump.",
-        "Every package publishes from GitHub Actions through npm trusted publishing with provenance: a GitHub release triggers the workflow, no long-lived npm tokens exist.",
-        "CI runs Biome, TypeScript and Vitest on every repo (1,000+ tests in the pool library alone); apps prerender static pages and generate SEO metadata, sitemaps, JSON-LD and llms.txt from one shared kit."
+        "Built packs to bundle a mappool into one zip or torrent, keyed by a short code that rebuilds the same pool for every player.",
+        "Built pools with osu! OAuth, co-editing, a map search that applies mod effects to star rating, AR and OD, and a check against the official tournament content rules.",
+        "Built bb, a BBCode editor with a live preview at osu!'s page widths and a collab banner (imagemap) maker.",
+        "Split shared code into 8 open source npm packages across 14 public repos (UI, osu! API client, pool logic, Next.js plumbing).",
+        "Set up GitHub Actions CI (Biome, TypeScript, Vitest) and npm trusted publishing with provenance, so releases ship from GitHub with no stored npm tokens."
       ],
       "technologies": ["typescript", "nextjs", "react", "tailwindcss", "bun", "mongodb", "vitest", "githubactions", "npm", "vercel"],
       "demoLink": "https://www.haruhime.moe",
