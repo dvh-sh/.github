@@ -257,7 +257,7 @@
       "description": "Web tools for running osu! tournaments: packs (mappool downloads), pools (mappool building) and bb (BBCode editor for event pages).",
       "highlights": [
         "Built packs to bundle a mappool into one zip or torrent, keyed by a short code that rebuilds the same pool for every player.",
-        "Built pools with osu! OAuth, co-editing, a map search that applies mod effects to star rating, AR and OD, and a check against the official tournament content rules.",
+        "Built pools with osu! OAuth, co-editing, a map search that applies mod effects to star rating, AR and OD, and a check against the official tournament content rules. Similar-map suggestions use precomputed embeddings from BoBERT, an open source (MIT) model by another developer.",
         "Built bb, a BBCode editor with a live preview at osu!'s page widths and a collab banner (imagemap) maker.",
         "Split shared code into 8 open source npm packages across 14 public repos (UI, osu! API client, pool logic, Next.js plumbing).",
         "Set up GitHub Actions CI (Biome, TypeScript, Vitest) and npm trusted publishing with provenance, so releases ship from GitHub with no stored npm tokens."
