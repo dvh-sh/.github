@@ -243,7 +243,7 @@
     },
     {
       "title": "haruhime.moe",
-      "description": "Web tools for creating and running osu! tournament events, built on open source libraries and data.",
+      "description": "Web tools for creating and running osu! tournament events, built on open source libraries and data, with typed API clients for the osu! API and a beatmap mirror.",
       "highlights": [
         "Built packs to bundle a mappool into one zip or torrent, keyed by a short code that rebuilds the same pool for every player.",
         "Built pools with osu! OAuth, co-editing, a map search that applies mod effects to star rating, AR and OD, and a check against the official tournament content rules. Similar-map suggestions use precomputed embeddings from BoBERT, an open source (MIT) model by another developer.",
@@ -261,20 +261,6 @@
       "technologies": ["TypeScript", "Next.js", "MongoDB"],
       "demoLink": "https://hive.to",
       "sourceLink": "https://github.com/hive-to"
-    },
-    {
-      "title": "Catppuccin (Raycast)",
-      "description": "API microservice & Raycast extension to browse Catppuccin palette, ports, and docs; merged into the official @raycast/extensions repo.",
-      "technologies": ["TypeScript", "React", "cplusplus"],
-      "demoLink": "https://catppuccin.dvh.sh",
-      "sourceLink": "https://github.com/dvh-sh/catppuccin.dvh.sh"
-    },
-    {
-      "title": "slapshot.ts",
-      "description": "Unofficial 'Slapshot: Rebound' API wrapper with TypeScript typings and Axios client.",
-      "technologies": ["TypeScript", "Axios"],
-      "demoLink": "https://slapshot.js.org",
-      "sourceLink": "https://github.com/dvhsh/slapshot.ts"
     },
     {
       "title": "NITROUS",
