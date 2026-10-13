@@ -179,6 +179,13 @@
   ],
   "works": [
     {
+      "title": "Dabers ANPR",
+      "shortDescription": "Marketing site for a browser extension that shows a UK car's MOT history from a right-click on any photo. Built a statically-exported Next.js site on Cloudflare Workers: pricing, blog, an MOT defects glossary generated from DVSA data, MDX legal pages and extension onboarding pages.",
+      "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "Bun"],
+      "link": "https://dabersanpr.com",
+      "date": "Oct 2026 - Present"
+    },
+    {
       "title": "Elevated Physique",
       "shortDescription": "Marketing + lead-gen site for an ISSA-certified coach. Programmatic SEO landing pages (personas, comparisons), MDX content layer, dark-only design system.",
       "technologies": ["TypeScript", "Next.js", "React", "Tailwind CSS", "MDX", "Vercel"],
