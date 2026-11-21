@@ -104,21 +104,18 @@
   "experience": [
     {
       "title": "Founder & Lead Engineer",
-      "company": "CERBERUS",
+      "company": "Cerberus (Cerberus Production Suite, cps.sh)",
       "type": "Self-employed",
       "startDate": "2025-04",
       "endDate": "Present",
       "location": "United States · Remote",
-      "description": "A DRM and anti-tamper platform serving thousands of users across its tenants, with $15,000+ in revenue. Protection is the core. Identity, payments, analytics, support, and marketing grew up around it because the products we protect needed them.",
+      "description": "Founded and lead a DRM and anti-tamper platform serving thousands of users across its tenants, with $15,000+ in revenue.",
       "bullets": [
-        "Built the protection pipeline: layered bytecode obfuscation, native compilation of sensitive code paths, per-user watermarked builds, and runtime anti-debug and integrity checks.",
-        "Designed licensing and device trust from scratch. Fuzzy hardware fingerprinting with per-device slots replaced brittle HWID locks, and a risk scoring engine weighs payment, identity, velocity, and device signals.",
-        "Run our own identity provider (OAuth 2.1, JWT/JWKS issuer) with hardware-bound sessions and keypair grants, shared by every product on the platform.",
-        "Moved client traffic onto a Rust gRPC transport with end-to-end encryption, and shipped a zero-knowledge vault where the server only ever holds ciphertext.",
-        "Shipped the commerce backend: Stripe and crypto checkout, entitlements, license keys, bundle and upgrade pricing, and a credit-based reseller network that settles its own balances.",
-        "Built first-party analytics on Cloudflare Workers with 45 event types and no third-party trackers. It feeds funnel, retention, and revenue-by-channel reporting.",
-        "Handle marketing end to end: positioning and brand voice, a creator partner program with fit scoring and referral payouts, an SEO content pipeline, and GDPR and CCPA compliance pages.",
-        "Added an AI operator layer: an MCP server for staff tooling, a RAG support assistant over our knowledge base, and an LLM moderation service."
+        "Built a per-build protection pipeline aimed at AI-assisted reverse engineering, with per-copy watermarking and runtime anti-tamper.",
+        "Designed licensing and device trust: fuzzy device fingerprinting with per-device slots and risk scoring over payment, identity, velocity, and device signals.",
+        "Run the platform's OAuth 2.1 identity provider with hardware-bound sessions, and moved client traffic onto an end-to-end encrypted Rust gRPC transport.",
+        "Shipped commerce with Stripe and crypto checkout, a credit-based reseller network, and first-party analytics on Cloudflare Workers.",
+        "Built observability and staff tooling: crash and error reports, tamper signals, uptime monitors with a status page, webhook and email alerts, a feed of AI reverse-engineering attempts, an MCP server, and LLM moderation."
       ]
     },
     {
